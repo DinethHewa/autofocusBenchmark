@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-08-26T12:36:26+05:30",
+  "status": "PASS",
+  "domains": {
+    "WBC": {
+      "n_stacks": 25773,
+      "ref_a_ref_b_exact": 1.0,
+      "ref_b_ref_c_exact": 0.4936561517867536,
+      "all_indices_in_bounds": true
+    },
+    "TBI": {
+      "n_stacks": 30,
+      "ref_a_ref_b_exact": 1.0,
+      "ref_b_ref_c_exact": 1.0,
+      "all_indices_in_bounds": true
+    },
+    "PBS": {
+      "n_stacks": 77,
+      "ref_a_ref_b_exact": 1.0,
+      "ref_b_ref_c_exact": 0.7142857142857143,
+      "all_indices_in_bounds": true
+    },
+    "BMA": {
+      "n_stacks": 38,
+      "ref_a_ref_b_exact": 1.0,
+      "ref_b_ref_c_exact": 0.9473684210526315,
+      "all_indices_in_bounds": true
+    },
+    "TBF": {
+      "n_stacks": 182,
+      "ref_a_ref_b_exact": 1.0,
+      "ref_b_ref_c_exact": 0.9175824175824175,
+      "all_indices_in_bounds": true
+    }
+  },
+  "failures": []
+}

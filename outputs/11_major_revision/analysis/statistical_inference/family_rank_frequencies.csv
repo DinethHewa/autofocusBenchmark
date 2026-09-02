@@ -1,0 +1,9 @@
+family,operator_count,mean_top5_frequency,probability_family_has_rank1,probability_family_has_top3
+entropy,1,0.0,0.0,0.0
+frequency,3,0.0,0.0,0.0
+gradient,9,0.5555555555555556,1.0,1.0
+laplacian,4,0.0,0.0,0.0
+statistical,9,0.0,0.0,0.0
+texture,1,0.0,0.0,0.0
+wavelet,4,0.0,0.0,0.0
+wavelet_alias,1,0.0,0.0,0.0

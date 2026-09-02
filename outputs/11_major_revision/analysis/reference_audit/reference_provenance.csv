@@ -1,0 +1,22 @@
+domain,reference_tier,n_stacks,voters,independent_of_evaluated_operator,status,sha256
+WBC,REF-A_submitted_full,25773,submitted cached ten,False,available,84b85648b3afe9a6165f94515d63415ef144ed24be422a385318536d709db01e
+WBC,REF-B_fixed_ten_diagnostic,25773,Tenengrad | Brenner Gradient | Variance of Laplacian | Sum Modified Laplacian | Normalized Variance | Energy of Gradient | Histogram Entropy | GLCM Contrast | Variance of Gradient | Fourier Transform Sharpness Index,False,available,84b85648b3afe9a6165f94515d63415ef144ed24be422a385318536d709db01e
+WBC,REF-C_fixed_disjoint_four,25773,Normalized Variance | Histogram Entropy | GLCM Contrast | Fourier Transform Sharpness Index,True,available,c9e35b1291be5e5abe828cf5f4ff510bf98ca96928089fc02729eeaf1223cb80
+TBI,REF-A_submitted_full,30,submitted cached ten,False,available,d7c30c13b4193e2a5237b958bbb9d734a51155cc5dac67acdc93f98eb0e748aa
+TBI,REF-B_fixed_ten_diagnostic,30,Tenengrad | Brenner Gradient | Variance of Laplacian | Sum Modified Laplacian | Normalized Variance | Energy of Gradient | Histogram Entropy | GLCM Contrast | Variance of Gradient | Fourier Transform Sharpness Index,False,available,d7c30c13b4193e2a5237b958bbb9d734a51155cc5dac67acdc93f98eb0e748aa
+TBI,REF-C_fixed_disjoint_four,30,Normalized Variance | Histogram Entropy | GLCM Contrast | Fourier Transform Sharpness Index,True,available,d7c30c13b4193e2a5237b958bbb9d734a51155cc5dac67acdc93f98eb0e748aa
+PBS,REF-A_submitted_full,77,submitted cached ten,False,available,35047be8f81ce7d9d49ae7b9f228da7296550d890956dcc390e3427c1456e206
+PBS,REF-B_fixed_ten_diagnostic,77,Tenengrad | Brenner Gradient | Variance of Laplacian | Sum Modified Laplacian | Normalized Variance | Energy of Gradient | Histogram Entropy | GLCM Contrast | Variance of Gradient | Fourier Transform Sharpness Index,False,available,35047be8f81ce7d9d49ae7b9f228da7296550d890956dcc390e3427c1456e206
+PBS,REF-C_fixed_disjoint_four,77,Normalized Variance | Histogram Entropy | GLCM Contrast | Fourier Transform Sharpness Index,True,available,a449a265135ddfc851d12cc2e15ae8139e6cbd1d6bac8098dbd476f65b8173af
+BMA,REF-A_submitted_full,38,submitted cached ten,False,available,a243dac0717d77f0ad22b4c6bee0f0906449da769fca5ed3043e925fc8873838
+BMA,REF-B_fixed_ten_diagnostic,38,Tenengrad | Brenner Gradient | Variance of Laplacian | Sum Modified Laplacian | Normalized Variance | Energy of Gradient | Histogram Entropy | GLCM Contrast | Variance of Gradient | Fourier Transform Sharpness Index,False,available,a243dac0717d77f0ad22b4c6bee0f0906449da769fca5ed3043e925fc8873838
+BMA,REF-C_fixed_disjoint_four,38,Normalized Variance | Histogram Entropy | GLCM Contrast | Fourier Transform Sharpness Index,True,available,74f1e495da725911ae98673cc5c5c92f63e18bd001b06443ef121f4750a759eb
+TBF,REF-A_submitted_full,182,submitted cached ten,False,available,f2d9764d1e5f83c3257d4e7ac6fb0c8f4f5badafd1d200a1a1d16096818f382d
+TBF,REF-B_fixed_ten_diagnostic,182,Tenengrad | Brenner Gradient | Variance of Laplacian | Sum Modified Laplacian | Normalized Variance | Energy of Gradient | Histogram Entropy | GLCM Contrast | Variance of Gradient | Fourier Transform Sharpness Index,False,available,f2d9764d1e5f83c3257d4e7ac6fb0c8f4f5badafd1d200a1a1d16096818f382d
+TBF,REF-C_fixed_disjoint_four,182,Normalized Variance | Histogram Entropy | GLCM Contrast | Fourier Transform Sharpness Index,True,available,a9174e3de1cc09209dba9641508482262057b4085816b5dc6cfa809f7320dbcf
+WBC,REF-D_external_WBC_algorithmic,0,none,True,unavailable: no per-stack device/Laplacian focus index or score found in local release,
+WBC,REF-E_blinded_expert,0,none,True,blocked pending genuine annotations,
+TBI,REF-E_blinded_expert,0,none,True,blocked pending genuine annotations,
+PBS,REF-E_blinded_expert,0,none,True,blocked pending genuine annotations,
+BMA,REF-E_blinded_expert,0,none,True,blocked pending genuine annotations,
+TBF,REF-E_blinded_expert,0,none,True,blocked pending genuine annotations,

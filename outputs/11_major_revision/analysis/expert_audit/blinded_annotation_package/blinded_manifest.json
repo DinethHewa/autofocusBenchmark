@@ -1,0 +1,912 @@
+[
+  {
+    "anonymous_stack_id": "39fbab497887e99b",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "a819ae69e6d73ccc",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "f4947c59c17039da",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "8f4e6d6cb5c38535",
+    "slice_count": 15,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "5648e60ac77fda90",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "9ec9ac6d68b13c51",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "ac78c6e4dcf43c90",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "b6eb989d3655f4c1",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "d0996bab9d8779df",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "76ece06831d8f332",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "f925c5d07241ca22",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "d78045a320d6f52c",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "0fd7a034382e5f81",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "a9dca311545654f8",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "1abc663a2d6e33ef",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "47ff34e3a7cc9910",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "6c7b6ea940cf8838",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "34f8c90917c2f4de",
+    "slice_count": 9,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "2f796521e5e6c62e",
+    "slice_count": 9,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "fc4feb63f46a13cf",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "4d0d49b11f20dd7e",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "9f450f9a9484c644",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "34ef88bd8a4b3f62",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "0696ffe40ae58580",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "940ba271415ac1c1",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "2687d725434278ff",
+    "slice_count": 15,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "5b1acba13fff8b62",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "024911349ea501b7",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "3abd15fa9be032a1",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "6148a59ecb834e6b",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "ec5b35899d90498b",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "15a271d9a6d81b9f",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "9d0e3a0476987051",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "643633fe261d4477",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "778a12b48b08de61",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "67c2210920edbc61",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "c95494cab7e3c850",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "4d42301448194410",
+    "slice_count": 15,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "0596af08b3365eaa",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "482b12823f11ee1b",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "0a443c42842d9509",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "7f5591aeb98214f8",
+    "slice_count": 9,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "b159216ec8acfdb4",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "ad20f6d59fa8c9ec",
+    "slice_count": 15,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "e8c5ed3c20367bb0",
+    "slice_count": 9,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "470062ff5e7fe3b6",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "7cedb8fdd0d2e9ae",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "528934017db150be",
+    "slice_count": 9,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "e43b9f16436c6c10",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "daae2b8e8841d57e",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "b0c371562b676413",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "e6e2f373568a2eef",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "7db236e8d77e9b8e",
+    "slice_count": 9,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "ada84b83bca1f1b0",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "b2e0b4c3c2fd9408",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "e809bbc713724987",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "e5ad4ae8b87411eb",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "40151ff40a2f7258",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "70ce47a5d7c2d40e",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "fb9a68fc5b6d8f4a",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "bbe7364ba583c38f",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "49292a66b1ad0e6d",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "d811d5f1df4cf813",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "b5f1a6be6d77ca84",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "dc1c4478bb27b35c",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "6f2f06b457fbfb59",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "a026671c437fedf8",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "0a2c0d9bed0ca5f4",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "b43f31421cdde3b2",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "81f977702c657e55",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "f6cd230c70c6b249",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "8f8caf72066490cd",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "542956bf1123d998",
+    "slice_count": 15,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "cdf8875e18978fdd",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "c7119e9271631914",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "ecd45de3850d42d9",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "ff332215cd0d9c23",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "e326827ec514c23d",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "5636442722089996",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "7335d2cab8cbd3b0",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "7e84f6d0a7f7bfce",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "0b4680e4f9c7d28b",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "3c868fba7c75f23d",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "2f14717fc710031e",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "67c6875c99ca8350",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "7578a54c9be91b72",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "074112573997f554",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "7e4b45f359ddba29",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "e94896cc99c36ae5",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "ba5d21070af61487",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "ea6b34b89c2487ed",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "94ec86e861bd5a13",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "5372faffe0470118",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "9795af71396fb86b",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "96fcffeb57e5d15c",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "e85e6a52d96cc103",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "0575261f9a1247d4",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "5fe9d397569339fb",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "f7ba9b3fb239e8dd",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "36e4237c0b7454c3",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "5da4f578a441f116",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "276de9c41acecbdf",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "78ca4e51ffaabfb0",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "2c848435c4086211",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "1d937c40393a866b",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "9b3ff0b7c8dcd02f",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "870fd718da547841",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "da9e8509619b4e9b",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "4d19038f98dfa441",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "8085f43338214994",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "217f54d9c6554496",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "3491fcdb3f2ba730",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "eddb83cbc345c2b1",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "95ba91f2c40b5973",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "057818fa4b81bc83",
+    "slice_count": 9,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "94400e115e1553e3",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "dc7d08c6cc681181",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "aa13fc533d82c144",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "f285f31300744be7",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "247960367c3eb4fc",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "c9f02e09d7f283c5",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "5322b0ebd5cdecfe",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "fd7f7308e9305a84",
+    "slice_count": 9,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "3753ee5c592e583c",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "6896e3210c5368e5",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "fe5929ed83197f6a",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "48cf74e3f15bb7bf",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "2d36de8702b8b3b8",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "fa2f7f1ca84e2592",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "663771d9be8d05b3",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "df2c648a3be97318",
+    "slice_count": 9,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "1d23b1a45251e01c",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "1f547f386ba3edbb",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "a6a29d1f49b09c01",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "4193de7013869d67",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "78f1d76bb3f22b74",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "553ad84463bd329b",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "fb695458d97156cc",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "b62f4c56f334b607",
+    "slice_count": 15,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "ac256b80b900bcd4",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "1111e04a2251cd35",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "149aa7d498ac27ce",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "b35618e9747f94d7",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "dda91aeede413fea",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "f62a555d15795d8a",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "7b51cd67590ad3f3",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "cd5a5c35a2571964",
+    "slice_count": 15,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "d4307fe80dc3fec3",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "3177546134df8df8",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "80c886f5236f5644",
+    "slice_count": 9,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "3b7c072676a0534f",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "093dd7767178d1e9",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "e57fda4c41a9916c",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "1e092b7b317cd90a",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "a6bf9398212176af",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "2ad054ff3221c8a4",
+    "slice_count": 9,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "c0fbdbc8d0d1ac72",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "13e18c09a9182339",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "3248b9084da5b400",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "75eb6e815dbe3187",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "effffb2cde6102a4",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "bc748f71604f2592",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "e3b56d0b99501a20",
+    "slice_count": 9,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "ccccd79a8c0860c3",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "e616d3717ce5f99c",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "08152e1c19217e35",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "c16101384369999f",
+    "slice_count": 10,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "2ff3df7ed5de071b",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "44b8295c8d80f32c",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "4290937954e6b6b0",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "c78797c2bb4aa019",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "a5389321df222c43",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "f74cef06faa1b8b2",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "1fbb5c7ba4e5e4d5",
+    "slice_count": 10,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "3f870f5f4ec9bf29",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "32be8ef635d7a28c",
+    "slice_count": 15,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "000b4306d70661f8",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "e73f934e7ae09f80",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "5ec5a7bd0cbbff60",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "846885373fa3a9a1",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  },
+  {
+    "anonymous_stack_id": "21b7e7f60e6c065b",
+    "slice_count": 14,
+    "sample_type": "disagreement_enriched_qualitative"
+  },
+  {
+    "anonymous_stack_id": "ed816b9a790eeb48",
+    "slice_count": 14,
+    "sample_type": "primary_unbiased"
+  }
+]

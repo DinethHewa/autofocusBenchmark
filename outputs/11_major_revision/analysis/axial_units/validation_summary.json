@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "domains": [
+    "BMA",
+    "PBS",
+    "TBF",
+    "TBI",
+    "WBC"
+  ],
+  "all_steps_verified": true,
+  "all_finite": true,
+  "cross_domain_mean_times_WBC_step": false
+}

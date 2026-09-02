@@ -1,0 +1,18 @@
+{
+  "full_gp_rerun": false,
+  "retained_count": 14,
+  "selection_rule": "final all-domain refit plus all 13 LODO representatives remaining after exact-expression and same-heldout-domain curve-correlation deduplication; sorted by heldout score, complexity, seed",
+  "functional_equivalence_threshold": 0.99,
+  "max_nodes": 35,
+  "max_tree_depth": 10,
+  "input_hashes": {
+    "deduplicated_best_expressions.json": "743053eef45f84f562ae20499ef8ca3b7ed1314efef8716b99279490378b501b",
+    "final_composite_expression.json": "07ced54921e432cc3744273ec81e01939055155cd60e0670ef158c2331704925",
+    "composite_fold_origin_table.csv": "440ef50055b096176d9c7929b055ec935650465d3af45f3d8285820ac6788844"
+  },
+  "validation": {
+    "expected_retained": 14,
+    "observed_retained": 14,
+    "all_expressions_present": true
+  }
+}

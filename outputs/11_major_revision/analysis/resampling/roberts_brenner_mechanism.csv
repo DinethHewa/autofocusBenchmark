@@ -1,0 +1,25 @@
+condition,operator,rank,rank_shift_vs_controlled_base,noise_change,false_maxima_change,absolute_peak_error_change_slices,fwhm_change_slices,operator_support_note
+aspect_0.5x_area,Roberts Focus Measure,12,-2,-0.027263610114035476,0.0,0.06666666666666667,0.9999999999999996,2x2 Roberts cross-gradient
+aspect_0.5x_area,Brenner Gradient,13,5,-0.029123530045717973,0.0,0.13333333333333333,1.2000000000000002,2-pixel directional difference
+aspect_0.5x_bicubic,Roberts Focus Measure,8,-6,-0.0193049323263908,0.0,0.0,0.6666666666666665,2x2 Roberts cross-gradient
+aspect_0.5x_bicubic,Brenner Gradient,13,5,-0.023142448729413755,0.0,0.06666666666666667,1.0666666666666664,2-pixel directional difference
+aspect_0.5x_bilinear,Roberts Focus Measure,12,-2,-0.027263610114035476,0.0,0.06666666666666667,0.9999999999999996,2x2 Roberts cross-gradient
+aspect_0.5x_bilinear,Brenner Gradient,13,5,-0.029123530045717973,0.0,0.13333333333333333,1.2000000000000002,2-pixel directional difference
+aspect_0.5x_nearest,Roberts Focus Measure,8,-6,-0.019541893315043066,0.0,0.0,0.6000000000000001,2x2 Roberts cross-gradient
+aspect_0.5x_nearest,Brenner Gradient,9,1,-0.0236658133337262,0.0,0.06666666666666667,1.0,2-pixel directional difference
+aspect_2x_area,Roberts Focus Measure,9,-5,0.002886059678144884,0.0,0.0,-0.06666666666666687,2x2 Roberts cross-gradient
+aspect_2x_area,Brenner Gradient,12,4,0.01401614938667052,0.06666666666666667,0.0,-0.3333333333333335,2-pixel directional difference
+aspect_2x_bicubic,Roberts Focus Measure,14,0,0.00516660948017543,0.0,0.0,-0.1333333333333333,2x2 Roberts cross-gradient
+aspect_2x_bicubic,Brenner Gradient,13,5,0.011733090042685926,0.0,0.0,-0.20000000000000018,2-pixel directional difference
+aspect_2x_bilinear,Roberts Focus Measure,13,-1,-0.0053999942525364275,0.0,0.0,0.1333333333333333,2x2 Roberts cross-gradient
+aspect_2x_bilinear,Brenner Gradient,3,-5,0.0005657066637987374,0.0,0.0,0.0,2-pixel directional difference
+aspect_2x_nearest,Roberts Focus Measure,9,-5,0.002886059678144884,0.0,0.0,-0.06666666666666687,2x2 Roberts cross-gradient
+aspect_2x_nearest,Brenner Gradient,12,4,0.01401614938667052,0.06666666666666667,0.0,-0.3333333333333335,2-pixel directional difference
+square_512_area,Roberts Focus Measure,15,1,-0.0016105012977119249,0.0,0.0,0.1333333333333333,2x2 Roberts cross-gradient
+square_512_area,Brenner Gradient,8,0,0.0007566830177783979,0.0,0.0,0.0,2-pixel directional difference
+square_512_bicubic,Roberts Focus Measure,16,2,0.0010277511243654835,0.0,0.0,0.0,2x2 Roberts cross-gradient
+square_512_bicubic,Brenner Gradient,8,0,0.005095531909765527,0.0,0.0,-0.06666666666666687,2-pixel directional difference
+square_512_bilinear,Roberts Focus Measure,15,1,-0.0029524205761858463,0.0,0.0,0.1333333333333333,2x2 Roberts cross-gradient
+square_512_bilinear,Brenner Gradient,8,0,-0.0006599216041657113,0.0,0.0,0.0,2-pixel directional difference
+square_512_nearest,Roberts Focus Measure,15,1,0.0005413073396896978,0.0,0.0,0.0,2x2 Roberts cross-gradient
+square_512_nearest,Brenner Gradient,8,0,0.0023889384598626273,0.0,0.0,-0.06666666666666687,2-pixel directional difference

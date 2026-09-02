@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-08-26T12:28:22+05:30",
+  "status": "PASS",
+  "figshare_article": "https://springernature.figshare.com/articles/dataset/A_large_multi-focus_dataset_for_white_blood_cell_classification/26781052",
+  "figshare_doi": "10.6084/m9.figshare.26781052.v1",
+  "figshare_file_id": 48650791,
+  "figshare_file_md5": "b6b50b97e594b3b6f4974477aa60d0a2",
+  "download_strategy": "HTTP byte-range extraction of two CSV members from official ZIP",
+  "mapping_basis": "natural numeric folder order used by frozen dataset loader equals img_num 0..25772",
+  "patient_mapping_note": "The official CSV maps cells to 214 slides but does not map slides to the 72 patients.",
+  "sha256": {
+    "labels.csv": "054cc3e85b1b62e40b8a7f685e193a3ac9c923a3859e5c08f03ae8deee682fa0",
+    "slide_number.csv": "2d575b0177ee0063af46fe9e1d927cab150b8596735a3974e68c89daad79fce2"
+  },
+  "checks": {
+    "rows": 25773,
+    "label_rows": 25773,
+    "unique_images": 25773,
+    "unique_slides": 214,
+    "image_numbers_complete_zero_based": true,
+    "labels_complete_zero_based": true,
+    "local_numeric_folders_match": true,
+    "expected_stack_count": true,
+    "expected_slide_count": true,
+    "patient_mapping_available": false
+  }
+}

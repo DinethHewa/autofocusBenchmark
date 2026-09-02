@@ -1,0 +1,14 @@
+{
+  "seed": 4524210,
+  "primary_sample": "30 stacks per domain; WBC samples 30 distinct official slides then one cell per slide, other domains sample stacks without replacement",
+  "primary_count": 150,
+  "qualitative_sample": "up to 10 largest REF-B-versus-REF-C disagreements per domain",
+  "qualitative_count": 32,
+  "WBC_slide_balanced_sampling": true,
+  "WBC_slide_clusters_available": 214,
+  "patient_level_WBC_sampling": "blocked: official CSV does not map 214 slides to 72 patients",
+  "stack_order_randomized": true,
+  "display_normalization": "single min/max across every slice in the displayed stack",
+  "algorithm_outputs_hidden": true,
+  "consensus_hidden": true
+}

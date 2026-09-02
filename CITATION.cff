@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its archived outputs, please cite the associated manuscript and Zenodo record."
+title: "Cross-Domain Benchmarking of Focus Measures for Smear-Microscopy Autofocus Under a Consensus-Audited Reference"
+type: software
+authors:
+  - given-names: "Dineth"
+    family-names: "Hewavitharana"
+    orcid: "https://orcid.org/0009-0000-2439-759X"
+    affiliation: "Department of Mechanical Engineering, University of Moratuwa, Katubedda 10400, Sri Lanka"
+version: 2.0.0
+date-released: 2026-09-02
+license: MIT
+keywords:
+  - autofocus
+  - focus measure
+  - smear microscopy
+  - digital pathology
+  - cross-domain benchmarking
+  - image sharpness
+  - focus curve
+  - symbolic regression
+doi: "10.5281/zenodo.21860693"
+repository-code: "https://github.com/DinethHewa/autofocusBenchmark"
+abstract: "Code and reproducibility outputs for a cross-domain benchmark of 32 handcrafted focus measures for smear-microscopy autofocus, evaluated under a disclosed and audited consensus reference."

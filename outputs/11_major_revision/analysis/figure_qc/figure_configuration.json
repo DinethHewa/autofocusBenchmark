@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-08-26T12:59:43.291237+05:30",
+  "dpi": 300,
+  "formats": [
+    "PNG",
+    "PDF"
+  ],
+  "selection_seed": "not random; deterministic explicit rules",
+  "input_hashes": {
+    "rank_frequencies": "578f1668ed779b0b740d2eb35948c61320b65245a1b9da2abfb6c882952cf26f",
+    "reference_agreement": "bd065d1a47b62e248b80eec080cb7fa915372d2f4c66070d724fb40342e550ab"
+  }
+}

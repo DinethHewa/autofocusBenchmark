@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "operators": 32,
+  "domains": 5,
+  "conditions": 14,
+  "stacks": 15,
+  "all_finite": true,
+  "frozen_pool_in_every_condition": true,
+  "aspect_and_square_separated": true
+}

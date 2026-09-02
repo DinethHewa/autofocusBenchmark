@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+outputs/00_logs/
+outputs/01_stacks/arrays/
+outputs/**/*.partial.csv
+outputs/**/*.partial.json
+*.zip
+*.tar
+*.tar.gz
+
+# Windows Mark-of-the-Web alternate data streams
+*:Zone.Identifier

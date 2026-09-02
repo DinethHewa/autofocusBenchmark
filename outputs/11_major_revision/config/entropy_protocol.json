@@ -1,0 +1,8 @@
+{
+  "bins": 256,
+  "integer_intensity_convention": "full representable dtype range mapped to [0,1]",
+  "float_intensity_range": [0.0, 1.0],
+  "per_image_normalization": false,
+  "random_seed": null,
+  "domains": ["WBC", "TBI", "PBS", "BMA", "TBF"]
+}

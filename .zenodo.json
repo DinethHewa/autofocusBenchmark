@@ -1,0 +1,34 @@
+{
+  "title": "Cross-Domain Benchmarking of Focus Measures for Smear-Microscopy Autofocus Under a Consensus-Audited Reference",
+  "upload_type": "software",
+  "description": "Source code and reproducibility outputs for a cross-domain benchmark of 32 handcrafted focus measures for passive microscopy autofocus, evaluated on 26,100 z-stacks from five smear-microscopy domains: white blood cell (WBC), tuberculosis sputum (TBI), peripheral blood smear (PBS), bone marrow aspirate (BMA) and thick blood film (TBF). All operators are evaluated at native resolution under one common ten-criterion framework. Reference focus indices are constructed from a disclosed ten-operator consensus and audited by leave-one-operator-out reconstruction and by an independent four-voter non-derivative reconstruction. The archive includes equal-domain and per-stack aggregation, bootstrap confidence intervals, Friedman and Nemenyi analysis, and sensitivity analyses over the scoring trade-off weight, criterion weighting, image resampling and runtime, together with an exploratory leave-one-domain-out genetic-programming symbolic-fusion analysis. Raw microscopy images and the 46 GB derived stack cache are excluded and can be rebuilt from the original datasets, which are third-party public resources cited in the manuscript. Reference indices are consensus-derived references, not hardware-calibrated optical ground truth. Source code is MIT licensed; repository-authored outputs are CC BY 4.0 as described in OUTPUTS_LICENSE.md.",
+  "creators": [
+    {
+      "name": "Hewavitharana, Dineth",
+      "orcid": "0009-0000-2439-759X",
+      "affiliation": "Department of Mechanical Engineering, University of Moratuwa, Katubedda 10400, Sri Lanka"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "version": "2.0.0",
+  "publication_date": "2026-09-02",
+  "keywords": [
+    "autofocus",
+    "focus measure",
+    "smear microscopy",
+    "digital pathology",
+    "cross-domain benchmarking",
+    "image sharpness",
+    "focus curve",
+    "symbolic regression"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/DinethHewa/autofocusBenchmark",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Raw microscopy images and the 46 GB derived stack cache are excluded. Source code is MIT licensed; repository-authored outputs are intended for CC BY 4.0 as described in OUTPUTS_LICENSE.md. Version 2.0.0 accompanies the major revision of the manuscript; see CHANGELOG.md for the corrections to the reference description, the histogram-binning convention and the runtime protocol."
+}

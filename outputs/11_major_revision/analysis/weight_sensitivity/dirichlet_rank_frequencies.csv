@@ -1,0 +1,33 @@
+operator,family,draws,probability_rank1,probability_top3,probability_top5
+Tenengrad,gradient,1000,0.013,0.834,0.911
+Brenner Gradient,gradient,1000,0.044,0.137,0.157
+Variance of Laplacian,laplacian,1000,0.0,0.027,0.037
+Sum Modified Laplacian,laplacian,1000,0.0,0.0,0.016
+Normalized Variance,statistical,1000,0.011,0.037,0.038
+Energy of Gradient,gradient,1000,0.0,0.437,0.881
+Histogram Entropy,entropy,1000,0.001,0.004,0.008
+GLCM Contrast,texture,1000,0.003,0.015,0.019
+Variance of Gradient,gradient,1000,0.679,0.826,0.853
+Fourier Transform Sharpness Index,frequency,1000,0.138,0.239,0.252
+Fourier High Frequency Energy Ratio,frequency,1000,0.006,0.029,0.04
+Roberts Focus Measure,gradient,1000,0.001,0.024,0.043
+Wavelet W1,wavelet,1000,0.0,0.006,0.012
+Wavelet W2,wavelet,1000,0.0,0.0,0.0
+Wavelet W3,wavelet,1000,0.0,0.0,0.006
+Wavelet Detail Energy (db1),wavelet,1000,0.0,0.0,0.004
+Curvelet Transform Sharpness Index,wavelet_alias,1000,0.0,0.003,0.007
+DCT Focus Measure,frequency,1000,0.0,0.042,0.056
+Intensity Skewness Index,statistical,1000,0.029,0.043,0.049
+Squared Gradient,gradient,1000,0.0,0.102,0.836
+Gradient Squared Energy,gradient,1000,0.0,0.0,0.522
+Mean Intensity,statistical,1000,0.0,0.004,0.006
+Intensity Variance,statistical,1000,0.0,0.0,0.007
+Intensity Range Index,statistical,1000,0.038,0.057,0.059
+Maximal Intensity,statistical,1000,0.014,0.027,0.029
+Laplacian Energy,laplacian,1000,0.0,0.0,0.013
+Mean Absolute Laplacian,laplacian,1000,0.0,0.011,0.027
+Spatial Frequency,gradient,1000,0.023,0.049,0.058
+Modified Tenengrad,gradient,1000,0.0,0.047,0.049
+Absolute Central Moment 2,statistical,1000,0.0,0.0,0.005
+Absolute Central Moment 4,statistical,1000,0.0,0.0,0.0
+Image Power,statistical,1000,0.0,0.0,0.0

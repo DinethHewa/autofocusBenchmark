@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "generated_stems": [
+    "figure1_representative_focus_sequences",
+    "figure2_reference_disagreement_example",
+    "figure3_reference_agreement",
+    "figure4_corrected_runtime_scaling",
+    "figure5_rank_uncertainty",
+    "figure6_domain_localization",
+    "figureS1_entropy_correction",
+    "figureS2_resampling_mechanism",
+    "figureS3_weight_sensitivity"
+  ],
+  "png_count": 9,
+  "pdf_count": 9,
+  "all_nonempty": true,
+  "expert_figure": "blocked pending genuine annotations",
+  "TBI_raw_image_derivative": "omitted because licence not reported"
+}

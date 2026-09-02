@@ -1,0 +1,12 @@
+{
+  "seed": 4524210,
+  "warmups": 2,
+  "repeats_per_image": 7,
+  "selected_images_per_domain": 3,
+  "bootstrap_resamples": 2000,
+  "resolutions_longest_dimension_pixels": [128, 512, 1024],
+  "include_native": true,
+  "preserve_aspect_ratio": true,
+  "preprocessed_dtype": "float32",
+  "randomize_operator_domain_resolution_order": true
+}

@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-08-26T07:27:58+05:30",
+  "seed": 4524210,
+  "candidate_pool": 32,
+  "selected_images_per_domain": 3,
+  "selected_image_rule": "first, middle, last stack in deterministic natural order; central slice",
+  "image_paths": {
+    "WBC": [
+      "/mnt/d/New_folder/datasets/WBC_dataset1/0/0_5.jpg",
+      "/mnt/d/New_folder/datasets/WBC_dataset1/12886/12886_5.jpg",
+      "/mnt/d/New_folder/datasets/WBC_dataset1/25772/25772_5.jpg"
+    ],
+    "TBI": [
+      "/mnt/d/New_folder/datasets/New folder/TBSI/folders/HH1/HH1 (6).JPG",
+      "/mnt/d/New_folder/datasets/New folder/TBSI/folders/HL6/HL6 (6).JPG",
+      "/mnt/d/New_folder/datasets/New folder/TBSI/folders/LH10/LH10 (6).JPG"
+    ],
+    "PBS": [
+      "/mnt/d/New_folder/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos001_Cam01_RGB_MB/FieldPos001_Cam01_RGB_MB_page_5.png",
+      "/mnt/d/New_folder/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos356_Cam01_RGB_MB/FieldPos356_Cam01_RGB_MB_page_8.png",
+      "/mnt/d/New_folder/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos472_Cam01_RGB_MB/FieldPos472_Cam01_RGB_MB_page_8.png"
+    ],
+    "BMA": [
+      "/mnt/d/New_folder/datasets/New folder/bma pbf tfa/bma_imgs/pos000_0/pos000_0_page_8.png",
+      "/mnt/d/New_folder/datasets/New folder/bma pbf tfa/bma_imgs/pos004_3/pos004_3_page_8.png",
+      "/mnt/d/New_folder/datasets/New folder/bma pbf tfa/bma_imgs/pos009_1/pos009_1_page_8.png"
+    ],
+    "TBF": [
+      "/mnt/d/New_folder/datasets/New folder/bma pbf tfa/tbf_imgs/FieldPos000/FieldPos000_page_8.png",
+      "/mnt/d/New_folder/datasets/New folder/bma pbf tfa/tbf_imgs/FieldPos043/FieldPos043_page_8.png",
+      "/mnt/d/New_folder/datasets/New folder/bma pbf tfa/tbf_imgs/FieldPos299/FieldPos299_page_8.png"
+    ]
+  },
+  "warmups": 2,
+  "repeats_per_image": 7,
+  "bootstrap_resamples": 2000,
+  "order_randomized": true,
+  "preprocessing": "grayscale if required; fixed dtype-range mapping to float32 [0,1]; aspect-ratio-preserving resize by longest dimension",
+  "radiometric_mapping": "integer full representable dtype range to [0,1]; floating sources must already lie in [0,1]; no per-image min-max normalization",
+  "native_and_resized_dtype_identical": "contiguous float32 in [0,1]",
+  "timed_components": [
+    "I/O",
+    "preprocessing",
+    "operator kernel",
+    "combined preprocessing plus kernel"
+  ],
+  "controlled_resolutions": [
+    128,
+    512,
+    1024
+  ],
+  "native_included": true,
+  "input_hashes": {
+    "operator_registry": "4a317b294208ce8f7f8d60a90d0a9a12787bfbf3bf7194f7813681ddc84cda7f",
+    "submitted_timing": "fbb636cb473026d1144ed8b60026c595eac64c52085691a05762d89bd7f2410c"
+  }
+}

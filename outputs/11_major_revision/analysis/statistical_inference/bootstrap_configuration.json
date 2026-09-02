@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-08-26T12:38:16+05:30",
+  "seed": 4524210,
+  "candidate_pool": 32,
+  "primary_reference": "REF-B_fixed_ten_diagnostic",
+  "confirmatory_reference": "REF-C_fixed_disjoint_four_for_28_nonvoters",
+  "alpha": 0.7,
+  "weights": {
+    "absolute_peak_localization_error": 0.2,
+    "range_around_global_maximum": 0.15,
+    "false_maxima_count": 0.1,
+    "fwhm": 0.1,
+    "noise_level": 0.1,
+    "steep_to_gradual_slope_ratio": 0.1,
+    "execution_time_per_slice": 0.1,
+    "steep_slope_width": 0.05,
+    "curvature_at_peak": 0.05,
+    "rrmse_under_additive_noise": 0.05
+  },
+  "bootstrap_replicates": 1000,
+  "highest_resampling_unit": "WBC slide (214 official clusters); stack for TBI, PBS, BMA, and TBF",
+  "WBC_patient_level_requirement": "blocked; official release maps 25,773 cells to 214 slides but does not map slides to 72 patients",
+  "balanced_subsampling_n_per_domain": 30,
+  "balanced_repeats": 1000,
+  "dirichlet_draws": 1000,
+  "input_hashes": {
+    "registry": "4a317b294208ce8f7f8d60a90d0a9a12787bfbf3bf7194f7813681ddc84cda7f",
+    "runtime": "2bdae7385b7081c81b5273523b59ff9eddb319dcd59ef5e43b360dfd72929061",
+    "entropy_rrmse": "f629c924ec16e32acb86bacd10c642e1aa2e91ab3b5ec13aed1d17c69df80721",
+    "wbc_slide_map": "08b2f82863f5e16632bcdbc05bc6f905d5e5ae0154f17f42b785a889bcb3a322"
+  }
+}

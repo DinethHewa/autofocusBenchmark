@@ -1,0 +1,33 @@
+operator,family,slide_cluster_probability_rank1,stack_level_probability_rank1,slide_cluster_probability_top3,stack_level_probability_top3,slide_cluster_probability_top5,stack_level_probability_top5,slide_cluster_median_rank,stack_level_median_rank
+Tenengrad,gradient,0.0,0.0,1.0,1.0,1.0,1.0,2.0,2.0
+Brenner Gradient,gradient,0.0,0.0,0.001,0.001,0.001,0.001,6.0,6.0
+Variance of Laplacian,laplacian,0.0,0.0,0.0,0.0,0.0,0.0,24.0,23.0
+Sum Modified Laplacian,laplacian,0.0,0.0,0.0,0.0,0.0,0.0,25.0,25.0
+Normalized Variance,statistical,0.0,0.0,0.0,0.0,0.0,0.0,18.0,18.0
+Energy of Gradient,gradient,0.0,0.0,0.424,0.409,1.0,1.0,4.0,4.0
+Histogram Entropy,entropy,0.0,0.0,0.0,0.0,0.0,0.0,24.0,24.0
+GLCM Contrast,texture,0.0,0.0,0.0,0.0,0.0,0.0,32.0,32.0
+Variance of Gradient,gradient,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Fourier Transform Sharpness Index,frequency,0.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0
+Fourier High Frequency Energy Ratio,frequency,0.0,0.0,0.0,0.0,0.0,0.0,21.0,21.0
+Roberts Focus Measure,gradient,0.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0
+Wavelet W1,wavelet,0.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0
+Wavelet W2,wavelet,0.0,0.0,0.0,0.0,0.0,0.0,16.0,16.0
+Wavelet W3,wavelet,0.0,0.0,0.0,0.0,0.0,0.0,15.0,15.0
+Wavelet Detail Energy (db1),wavelet,0.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0
+Curvelet Transform Sharpness Index,wavelet_alias,0.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0
+DCT Focus Measure,frequency,0.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0
+Intensity Skewness Index,statistical,0.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0
+Squared Gradient,gradient,0.0,0.0,0.575,0.59,1.0,1.0,3.0,3.0
+Gradient Squared Energy,gradient,0.0,0.0,0.0,0.0,0.999,0.999,5.0,5.0
+Mean Intensity,statistical,0.0,0.0,0.0,0.0,0.0,0.0,29.0,29.0
+Intensity Variance,statistical,0.0,0.0,0.0,0.0,0.0,0.0,19.0,19.0
+Intensity Range Index,statistical,0.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0
+Maximal Intensity,statistical,0.0,0.0,0.0,0.0,0.0,0.0,31.0,31.0
+Laplacian Energy,laplacian,0.0,0.0,0.0,0.0,0.0,0.0,27.0,27.0
+Mean Absolute Laplacian,laplacian,0.0,0.0,0.0,0.0,0.0,0.0,28.0,28.0
+Spatial Frequency,gradient,0.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0
+Modified Tenengrad,gradient,0.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0
+Absolute Central Moment 2,statistical,0.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0
+Absolute Central Moment 4,statistical,0.0,0.0,0.0,0.0,0.0,0.0,17.0,17.0
+Image Power,statistical,0.0,0.0,0.0,0.0,0.0,0.0,26.0,26.0

@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-08-26T07:42:27.354288+05:30",
+  "seed": 123,
+  "noise_std_unit_intensity": 0.01,
+  "stack_cap_per_domain": 200,
+  "same_seed_reset_per_domain": true,
+  "input_hashes": {
+    "WBC": "d6d2df989001778cabfc687958c2a289b54f70d6b7165c1142a864e57c4da1e6",
+    "TBI": "2c3247aa5ad4204d057be901c1aebc3e2143cff0745cc0a70925d107610004ea",
+    "PBS": "0ba3ea8e5bbb9eee67264443dab5f22d18256123da16678adaedd931bb08d6b0",
+    "BMA": "de429773f0bbde0ef54ea059d112415deb941ce9fa76bad7804fe65db9d41aa9",
+    "TBF": "98509b1063c949ca9549a97c2998c721869bcabad8162410648e996e0c635522"
+  },
+  "validation": {
+    "all_finite": true,
+    "domains": [
+      "WBC",
+      "TBI",
+      "PBS",
+      "BMA",
+      "TBF"
+    ]
+  }
+}

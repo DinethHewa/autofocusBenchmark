@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-08-26T12:57:21.263783+05:30",
+  "seed": 4524210,
+  "candidate_pool": 32,
+  "domains": [
+    "WBC",
+    "TBI",
+    "PBS",
+    "BMA",
+    "TBF"
+  ],
+  "selected_stacks_per_domain": 3,
+  "selection_rule": "first, middle and last stack in deterministic natural/source order",
+  "controlled_base": "aspect-preserving 512-pixel longest side, AREA for reduction and CUBIC for enlargement",
+  "scale_factors_from_controlled_base": [
+    0.5,
+    1.0,
+    2.0
+  ],
+  "interpolators": [
+    "nearest",
+    "bilinear",
+    "bicubic",
+    "area"
+  ],
+  "square_distortion": "512x512, explicitly separate from aspect-preserving conditions",
+  "common_physical_pixel_size": "not run: pixel size is unreported for four domains and thus cannot be harmonized without invention",
+  "native_comparator": "frozen cached curves for the same 15 stacks and all 32 operators; corrected entropy substituted",
+  "mechanism_rank": "candidate-pool-relative equal mean of min-max normalized localization error, false maxima, noise level and FWHM; descriptive only",
+  "input_hashes": {
+    "operator_registry": "4a317b294208ce8f7f8d60a90d0a9a12787bfbf3bf7194f7813681ddc84cda7f",
+    "submitted_1024": "02100d226369ea24a7a84bb952f3515a6ab13db2a276e34692e97dd89c9d960b"
+  },
+  "environment": {
+    "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.12.13 (main, Apr 14 2026, 14:29:00) [Clang 22.1.3 ]",
+    "numpy": "2.5.2",
+    "opencv": "5.0.0"
+  }
+}

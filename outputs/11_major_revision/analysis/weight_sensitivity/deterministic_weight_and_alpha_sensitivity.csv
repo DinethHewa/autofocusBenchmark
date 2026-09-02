@@ -1,0 +1,545 @@
+analysis,setting,operator,G,rank,top5
+weight_scheme,submitted,Variance of Gradient,0.10584463826733244,1,True
+weight_scheme,submitted,Tenengrad,0.1103043051503359,2,True
+weight_scheme,submitted,Squared Gradient,0.1104520543853692,3,True
+weight_scheme,submitted,Energy of Gradient,0.11045241358121932,4,True
+weight_scheme,submitted,Gradient Squared Energy,0.1104840488542683,5,True
+weight_scheme,submitted,Brenner Gradient,0.11428148036120925,6,False
+weight_scheme,submitted,Modified Tenengrad,0.12498367052963126,7,False
+weight_scheme,submitted,Fourier Transform Sharpness Index,0.13595977465893344,8,False
+weight_scheme,submitted,DCT Focus Measure,0.1972234738867066,9,False
+weight_scheme,submitted,Roberts Focus Measure,0.19888788001103141,10,False
+weight_scheme,submitted,Spatial Frequency,0.20403448950037878,11,False
+weight_scheme,submitted,Wavelet W1,0.216833563520774,12,False
+weight_scheme,submitted,Curvelet Transform Sharpness Index,0.2169919320329543,13,False
+weight_scheme,submitted,Wavelet Detail Energy (db1),0.21701579397385287,14,False
+weight_scheme,submitted,Wavelet W3,0.21721501515517122,15,False
+weight_scheme,submitted,Wavelet W2,0.21767450350614415,16,False
+weight_scheme,submitted,Absolute Central Moment 4,0.2193885944873708,17,False
+weight_scheme,submitted,Normalized Variance,0.22017512772964243,18,False
+weight_scheme,submitted,Intensity Variance,0.2240449886099774,19,False
+weight_scheme,submitted,Absolute Central Moment 2,0.224377585928026,20,False
+weight_scheme,submitted,Fourier High Frequency Energy Ratio,0.23413705841114849,21,False
+weight_scheme,submitted,Intensity Range Index,0.2396575921018226,22,False
+weight_scheme,submitted,Histogram Entropy,0.2993870173868175,23,False
+weight_scheme,submitted,Variance of Laplacian,0.30015175088788215,24,False
+weight_scheme,submitted,Sum Modified Laplacian,0.30292906251628804,25,False
+weight_scheme,submitted,Laplacian Energy,0.3068931606864092,26,False
+weight_scheme,submitted,Image Power,0.307305201213586,27,False
+weight_scheme,submitted,Mean Absolute Laplacian,0.3111316298102507,28,False
+weight_scheme,submitted,Mean Intensity,0.325991429898771,29,False
+weight_scheme,submitted,Intensity Skewness Index,0.3461425303025494,30,False
+weight_scheme,submitted,Maximal Intensity,0.34674563411949716,31,False
+weight_scheme,submitted,GLCM Contrast,0.3726102800495188,32,False
+weight_scheme,equal,Variance of Gradient,0.1466514083660771,1,True
+weight_scheme,equal,Tenengrad,0.1511368696488506,2,True
+weight_scheme,equal,Energy of Gradient,0.15124839506278936,3,True
+weight_scheme,equal,Squared Gradient,0.15125662654071154,4,True
+weight_scheme,equal,Gradient Squared Energy,0.1512706681326484,5,True
+weight_scheme,equal,Brenner Gradient,0.15689867954089992,6,False
+weight_scheme,equal,Modified Tenengrad,0.16604025342904838,7,False
+weight_scheme,equal,Fourier Transform Sharpness Index,0.16786756642448897,8,False
+weight_scheme,equal,Roberts Focus Measure,0.20481748929694352,9,False
+weight_scheme,equal,DCT Focus Measure,0.20615369880881007,10,False
+weight_scheme,equal,Spatial Frequency,0.206579655795318,11,False
+weight_scheme,equal,Wavelet W1,0.22916176297195384,12,False
+weight_scheme,equal,Curvelet Transform Sharpness Index,0.22932299444311,13,False
+weight_scheme,equal,Wavelet Detail Energy (db1),0.22934942247302106,14,False
+weight_scheme,equal,Wavelet W3,0.22948225567482844,15,False
+weight_scheme,equal,Wavelet W2,0.22999805897384998,16,False
+weight_scheme,equal,Fourier High Frequency Energy Ratio,0.23399521638760412,17,False
+weight_scheme,equal,Normalized Variance,0.2390877321416162,18,False
+weight_scheme,equal,Absolute Central Moment 4,0.24074525724020193,19,False
+weight_scheme,equal,Intensity Variance,0.24490195237753318,20,False
+weight_scheme,equal,Absolute Central Moment 2,0.24523221725947958,21,False
+weight_scheme,equal,Intensity Range Index,0.256295810536056,22,False
+weight_scheme,equal,Histogram Entropy,0.27306688177458144,23,False
+weight_scheme,equal,Variance of Laplacian,0.28054459259751874,24,False
+weight_scheme,equal,Sum Modified Laplacian,0.28479973397942676,25,False
+weight_scheme,equal,Laplacian Energy,0.28738540338074114,26,False
+weight_scheme,equal,Image Power,0.2884073245948717,27,False
+weight_scheme,equal,Mean Absolute Laplacian,0.2922409965640248,28,False
+weight_scheme,equal,Mean Intensity,0.2926141137631669,29,False
+weight_scheme,equal,Intensity Skewness Index,0.3164118318628376,30,False
+weight_scheme,equal,GLCM Contrast,0.3404387975277922,31,False
+weight_scheme,equal,Maximal Intensity,0.34317570554927307,32,False
+weight_scheme,localization_heavy,Variance of Gradient,0.043223932612200755,1,True
+weight_scheme,localization_heavy,Brenner Gradient,0.04355183696216386,2,True
+weight_scheme,localization_heavy,Tenengrad,0.046891318145230995,3,True
+weight_scheme,localization_heavy,Energy of Gradient,0.04698611228236874,4,True
+weight_scheme,localization_heavy,Squared Gradient,0.046987848527060366,5,True
+weight_scheme,localization_heavy,Gradient Squared Energy,0.04701324092774485,6,False
+weight_scheme,localization_heavy,Modified Tenengrad,0.052917526610917344,7,False
+weight_scheme,localization_heavy,Fourier Transform Sharpness Index,0.08294725393478067,8,False
+weight_scheme,localization_heavy,Intensity Range Index,0.1833119642354951,9,False
+weight_scheme,localization_heavy,Roberts Focus Measure,0.18994014418320068,10,False
+weight_scheme,localization_heavy,DCT Focus Measure,0.1920578586966106,11,False
+weight_scheme,localization_heavy,Absolute Central Moment 4,0.19231484087368172,12,False
+weight_scheme,localization_heavy,Intensity Variance,0.20030125243776387,13,False
+weight_scheme,localization_heavy,Absolute Central Moment 2,0.20047777147655382,14,False
+weight_scheme,localization_heavy,Spatial Frequency,0.2039000453167463,15,False
+weight_scheme,localization_heavy,Normalized Variance,0.2100703469211297,16,False
+weight_scheme,localization_heavy,Fourier High Frequency Energy Ratio,0.21190165491684174,17,False
+weight_scheme,localization_heavy,Wavelet W1,0.21605749493499032,18,False
+weight_scheme,localization_heavy,Curvelet Transform Sharpness Index,0.21614610055023895,19,False
+weight_scheme,localization_heavy,Wavelet Detail Energy (db1),0.21615511380458446,20,False
+weight_scheme,localization_heavy,Wavelet W3,0.2163130446729486,21,False
+weight_scheme,localization_heavy,Wavelet W2,0.2165280336591222,22,False
+weight_scheme,localization_heavy,Maximal Intensity,0.3041203058387099,23,False
+weight_scheme,localization_heavy,Sum Modified Laplacian,0.3285147706643655,24,False
+weight_scheme,localization_heavy,Variance of Laplacian,0.33034715308520124,25,False
+weight_scheme,localization_heavy,Laplacian Energy,0.3340100669892558,26,False
+weight_scheme,localization_heavy,Mean Absolute Laplacian,0.3475870230217252,27,False
+weight_scheme,localization_heavy,Image Power,0.3541261837574781,28,False
+weight_scheme,localization_heavy,Histogram Entropy,0.3792013086623064,29,False
+weight_scheme,localization_heavy,GLCM Contrast,0.3897355758172602,30,False
+weight_scheme,localization_heavy,Mean Intensity,0.4459776878647876,31,False
+weight_scheme,localization_heavy,Intensity Skewness Index,0.5098018642991141,32,False
+weight_scheme,runtime_0.10,Variance of Gradient,0.10584463826733244,1,True
+weight_scheme,runtime_0.10,Tenengrad,0.1103043051503359,2,True
+weight_scheme,runtime_0.10,Squared Gradient,0.1104520543853692,3,True
+weight_scheme,runtime_0.10,Energy of Gradient,0.11045241358121932,4,True
+weight_scheme,runtime_0.10,Gradient Squared Energy,0.1104840488542683,5,True
+weight_scheme,runtime_0.10,Brenner Gradient,0.11428148036120925,6,False
+weight_scheme,runtime_0.10,Modified Tenengrad,0.12498367052963126,7,False
+weight_scheme,runtime_0.10,Fourier Transform Sharpness Index,0.13595977465893344,8,False
+weight_scheme,runtime_0.10,DCT Focus Measure,0.1972234738867066,9,False
+weight_scheme,runtime_0.10,Roberts Focus Measure,0.19888788001103141,10,False
+weight_scheme,runtime_0.10,Spatial Frequency,0.20403448950037878,11,False
+weight_scheme,runtime_0.10,Wavelet W1,0.216833563520774,12,False
+weight_scheme,runtime_0.10,Curvelet Transform Sharpness Index,0.2169919320329543,13,False
+weight_scheme,runtime_0.10,Wavelet Detail Energy (db1),0.21701579397385287,14,False
+weight_scheme,runtime_0.10,Wavelet W3,0.21721501515517122,15,False
+weight_scheme,runtime_0.10,Wavelet W2,0.21767450350614415,16,False
+weight_scheme,runtime_0.10,Absolute Central Moment 4,0.2193885944873708,17,False
+weight_scheme,runtime_0.10,Normalized Variance,0.22017512772964243,18,False
+weight_scheme,runtime_0.10,Intensity Variance,0.2240449886099774,19,False
+weight_scheme,runtime_0.10,Absolute Central Moment 2,0.224377585928026,20,False
+weight_scheme,runtime_0.10,Fourier High Frequency Energy Ratio,0.23413705841114849,21,False
+weight_scheme,runtime_0.10,Intensity Range Index,0.2396575921018226,22,False
+weight_scheme,runtime_0.10,Histogram Entropy,0.2993870173868175,23,False
+weight_scheme,runtime_0.10,Variance of Laplacian,0.30015175088788215,24,False
+weight_scheme,runtime_0.10,Sum Modified Laplacian,0.30292906251628804,25,False
+weight_scheme,runtime_0.10,Laplacian Energy,0.3068931606864092,26,False
+weight_scheme,runtime_0.10,Image Power,0.307305201213586,27,False
+weight_scheme,runtime_0.10,Mean Absolute Laplacian,0.3111316298102507,28,False
+weight_scheme,runtime_0.10,Mean Intensity,0.325991429898771,29,False
+weight_scheme,runtime_0.10,Intensity Skewness Index,0.3461425303025494,30,False
+weight_scheme,runtime_0.10,Maximal Intensity,0.34674563411949716,31,False
+weight_scheme,runtime_0.10,GLCM Contrast,0.3726102800495188,32,False
+weight_scheme,runtime_0.05,Variance of Gradient,0.1106713636411695,1,True
+weight_scheme,runtime_0.05,Tenengrad,0.1156240254460314,2,True
+weight_scheme,runtime_0.05,Squared Gradient,0.11570180525059086,3,True
+weight_scheme,runtime_0.05,Energy of Gradient,0.11570206760650877,4,True
+weight_scheme,runtime_0.05,Gradient Squared Energy,0.11571860037941527,5,True
+weight_scheme,runtime_0.05,Brenner Gradient,0.12010233353808217,6,False
+weight_scheme,runtime_0.05,Modified Tenengrad,0.12280764112239576,7,False
+weight_scheme,runtime_0.05,Fourier Transform Sharpness Index,0.1384109179735331,8,False
+weight_scheme,runtime_0.05,DCT Focus Measure,0.20595372738932038,9,False
+weight_scheme,runtime_0.05,Roberts Focus Measure,0.20879897838033432,10,False
+weight_scheme,runtime_0.05,Spatial Frequency,0.21375032888626677,11,False
+weight_scheme,runtime_0.05,Wavelet W1,0.22516980930119512,12,False
+weight_scheme,runtime_0.05,Curvelet Transform Sharpness Index,0.2252560427056809,13,False
+weight_scheme,runtime_0.05,Wavelet Detail Energy (db1),0.22526843398652693,14,False
+weight_scheme,runtime_0.05,Wavelet W3,0.2253704118766615,15,False
+weight_scheme,runtime_0.05,Wavelet W2,0.2256122809552559,16,False
+weight_scheme,runtime_0.05,Absolute Central Moment 4,0.22864930954092955,17,False
+weight_scheme,runtime_0.05,Normalized Variance,0.2314708200033628,18,False
+weight_scheme,runtime_0.05,Intensity Variance,0.23548492661183615,19,False
+weight_scheme,runtime_0.05,Absolute Central Moment 2,0.23565990035061382,20,False
+weight_scheme,runtime_0.05,Fourier High Frequency Energy Ratio,0.2413901970150815,21,False
+weight_scheme,runtime_0.05,Intensity Range Index,0.2521958102272048,22,False
+weight_scheme,runtime_0.05,Histogram Entropy,0.31399428422449965,23,False
+weight_scheme,runtime_0.05,Variance of Laplacian,0.3156868424681266,24,False
+weight_scheme,runtime_0.05,Sum Modified Laplacian,0.3181756199130893,25,False
+weight_scheme,runtime_0.05,Laplacian Energy,0.3192332881724428,26,False
+weight_scheme,runtime_0.05,Image Power,0.32323520090583097,27,False
+weight_scheme,runtime_0.05,Mean Absolute Laplacian,0.32367427447282354,28,False
+weight_scheme,runtime_0.05,Mean Intensity,0.34310538106828714,29,False
+weight_scheme,runtime_0.05,GLCM Contrast,0.3553792421573882,30,False
+weight_scheme,runtime_0.05,Intensity Skewness Index,0.3630842015473,31,False
+weight_scheme,runtime_0.05,Maximal Intensity,0.36499540433631283,32,False
+weight_scheme,runtime_0,Variance of Gradient,0.11603509245133357,1,True
+weight_scheme,runtime_0,Modified Tenengrad,0.12047277328258746,2,True
+weight_scheme,runtime_0,Energy of Gradient,0.12153578867757905,3,True
+weight_scheme,runtime_0,Gradient Squared Energy,0.12153578867757905,4,True
+weight_scheme,runtime_0,Squared Gradient,0.12153578867757905,5,True
+weight_scheme,runtime_0,Tenengrad,0.12153578867757905,6,False
+weight_scheme,runtime_0,Brenner Gradient,0.12656999762446153,7,False
+weight_scheme,runtime_0,Fourier Transform Sharpness Index,0.14115787701662533,8,False
+weight_scheme,runtime_0,DCT Focus Measure,0.21565474634592063,9,False
+weight_scheme,runtime_0,Roberts Focus Measure,0.21981139714495762,10,False
+weight_scheme,runtime_0,Spatial Frequency,0.22454612149844347,11,False
+weight_scheme,runtime_0,Wavelet W1,0.23443645296171778,12,False
+weight_scheme,runtime_0,Wavelet W2,0.23443645296171778,13,False
+weight_scheme,runtime_0,Wavelet W3,0.23443645296171778,14,False
+weight_scheme,runtime_0,Curvelet Transform Sharpness Index,0.2344428655733527,15,False
+weight_scheme,runtime_0,Wavelet Detail Energy (db1),0.2344428655733527,16,False
+weight_scheme,runtime_0,Absolute Central Moment 4,0.23893934871464353,17,False
+weight_scheme,runtime_0,Normalized Variance,0.2440216143229691,18,False
+weight_scheme,runtime_0,Absolute Central Moment 2,0.2481960962349193,19,False
+weight_scheme,runtime_0,Intensity Variance,0.2481960962349193,20,False
+weight_scheme,runtime_0,Fourier High Frequency Energy Ratio,0.24945431608478086,21,False
+weight_scheme,runtime_0,Intensity Range Index,0.26612717697854404,22,False
+weight_scheme,runtime_0,Histogram Entropy,0.3302248752646611,23,False
+weight_scheme,runtime_0,Laplacian Energy,0.33294646533343863,24,False
+weight_scheme,runtime_0,Variance of Laplacian,0.3329480615976055,25,False
+weight_scheme,runtime_0,Sum Modified Laplacian,0.33511625288278224,26,False
+weight_scheme,runtime_0,GLCM Contrast,0.3362336444994653,27,False
+weight_scheme,runtime_0,Mean Absolute Laplacian,0.337612908329653,28,False
+weight_scheme,runtime_0,Image Power,0.34093524941482733,29,False
+weight_scheme,runtime_0,Mean Intensity,0.36212089513430257,30,False
+weight_scheme,runtime_0,Intensity Skewness Index,0.3819082811434763,31,False
+weight_scheme,runtime_0,Maximal Intensity,0.3852729267994413,32,False
+alpha,0.0,Variance of Gradient,0.018095110838924358,1,True
+alpha,0.0,Tenengrad,0.01901626237306613,2,True
+alpha,0.0,Squared Gradient,0.019115372265703458,3,True
+alpha,0.0,Energy of Gradient,0.019160799552265503,4,True
+alpha,0.0,Gradient Squared Energy,0.019175175207676653,5,True
+alpha,0.0,Brenner Gradient,0.02217974158949291,6,False
+alpha,0.0,Modified Tenengrad,0.024657952998095253,7,False
+alpha,0.0,Fourier Transform Sharpness Index,0.032432750903901256,8,False
+alpha,0.0,Intensity Range Index,0.05371630521778856,9,False
+alpha,0.0,Mean Intensity,0.07384933025988213,10,False
+alpha,0.0,Normalized Variance,0.07481458921338445,11,False
+alpha,0.0,Absolute Central Moment 4,0.07838105303783474,12,False
+alpha,0.0,Absolute Central Moment 2,0.07841495261097844,13,False
+alpha,0.0,Intensity Variance,0.0784782777907487,14,False
+alpha,0.0,DCT Focus Measure,0.101960919494014,15,False
+alpha,0.0,Image Power,0.10284290675268595,16,False
+alpha,0.0,Intensity Skewness Index,0.11883279327276997,17,False
+alpha,0.0,Wavelet Detail Energy (db1),0.11958085194665095,18,False
+alpha,0.0,Wavelet W1,0.11961457668900974,19,False
+alpha,0.0,Curvelet Transform Sharpness Index,0.11962558045906209,20,False
+alpha,0.0,Wavelet W2,0.11974533880654309,21,False
+alpha,0.0,Wavelet W3,0.11979789324501683,22,False
+alpha,0.0,Maximal Intensity,0.12561807583364704,23,False
+alpha,0.0,Spatial Frequency,0.12602929200635296,24,False
+alpha,0.0,Fourier High Frequency Energy Ratio,0.1337554219969627,25,False
+alpha,0.0,Roberts Focus Measure,0.13698842775147713,26,False
+alpha,0.0,Mean Absolute Laplacian,0.14180374097157283,27,False
+alpha,0.0,Variance of Laplacian,0.15221011974463938,28,False
+alpha,0.0,Sum Modified Laplacian,0.1522734851574242,29,False
+alpha,0.0,Laplacian Energy,0.15465246931286514,30,False
+alpha,0.0,Histogram Entropy,0.15966023504447294,31,False
+alpha,0.0,GLCM Contrast,0.20382310045756682,32,False
+alpha,0.1,Variance of Gradient,0.030630757614411232,1,True
+alpha,0.1,Tenengrad,0.032057411341247524,2,True
+alpha,0.1,Squared Gradient,0.03216346971137,3,True
+alpha,0.1,Energy of Gradient,0.032202458699258904,4,True
+alpha,0.1,Gradient Squared Energy,0.0322193000143326,5,True
+alpha,0.1,Brenner Gradient,0.035337132842595244,6,False
+alpha,0.1,Modified Tenengrad,0.03899019835974325,7,False
+alpha,0.1,Fourier Transform Sharpness Index,0.04722232572604871,8,False
+alpha,0.1,Intensity Range Index,0.080279346201222,9,False
+alpha,0.1,Normalized Variance,0.09558038042999273,10,False
+alpha,0.1,Absolute Central Moment 4,0.09852498753062562,11,False
+alpha,0.1,Absolute Central Moment 2,0.09926675737055668,12,False
+alpha,0.1,Intensity Variance,0.09927352219349567,13,False
+alpha,0.1,Mean Intensity,0.10986963020829485,14,False
+alpha,0.1,DCT Focus Measure,0.11556985583582723,15,False
+alpha,0.1,Image Power,0.13205180596138597,16,False
+alpha,0.1,Wavelet Detail Energy (db1),0.13350012937910838,17,False
+alpha,0.1,Wavelet W1,0.1335030033792618,18,False
+alpha,0.1,Curvelet Transform Sharpness Index,0.1335350592553324,19,False
+alpha,0.1,Wavelet W3,0.13371462494646746,20,False
+alpha,0.1,Wavelet W2,0.13373521947791467,21,False
+alpha,0.1,Spatial Frequency,0.13717289164835664,22,False
+alpha,0.1,Roberts Focus Measure,0.14583120664569918,23,False
+alpha,0.1,Fourier High Frequency Energy Ratio,0.1480956557704178,24,False
+alpha,0.1,Intensity Skewness Index,0.15130561284845276,25,False
+alpha,0.1,Maximal Intensity,0.15720772701733993,26,False
+alpha,0.1,Mean Absolute Laplacian,0.16599343937709826,27,False
+alpha,0.1,Variance of Laplacian,0.17334463847938836,28,False
+alpha,0.1,Sum Modified Laplacian,0.17379571049440476,29,False
+alpha,0.1,Laplacian Energy,0.17640113950908573,30,False
+alpha,0.1,Histogram Entropy,0.17962120395052217,31,False
+alpha,0.1,GLCM Contrast,0.22793555468498852,32,False
+alpha,0.2,Variance of Gradient,0.043166404389898105,1,True
+alpha,0.2,Tenengrad,0.04509856030942892,2,True
+alpha,0.2,Squared Gradient,0.04521156715703653,3,True
+alpha,0.2,Energy of Gradient,0.045244117846252305,4,True
+alpha,0.2,Gradient Squared Energy,0.04526342482098855,5,True
+alpha,0.2,Brenner Gradient,0.04849452409569758,6,False
+alpha,0.2,Modified Tenengrad,0.05332244372139126,7,False
+alpha,0.2,Fourier Transform Sharpness Index,0.062011900548196164,8,False
+alpha,0.2,Intensity Range Index,0.10684238718465544,9,False
+alpha,0.2,Normalized Variance,0.11634617164660102,10,False
+alpha,0.2,Absolute Central Moment 4,0.11866892202341647,11,False
+alpha,0.2,Intensity Variance,0.12006876659624262,12,False
+alpha,0.2,Absolute Central Moment 2,0.12011856213013491,13,False
+alpha,0.2,DCT Focus Measure,0.12917879217764047,14,False
+alpha,0.2,Mean Intensity,0.14588993015670754,15,False
+alpha,0.2,Wavelet W1,0.14739143006951383,16,False
+alpha,0.2,Wavelet Detail Energy (db1),0.1474194068115658,17,False
+alpha,0.2,Curvelet Transform Sharpness Index,0.14744453805160274,18,False
+alpha,0.2,Wavelet W3,0.1476313566479181,19,False
+alpha,0.2,Wavelet W2,0.14772510014928625,20,False
+alpha,0.2,Spatial Frequency,0.14831649129036034,21,False
+alpha,0.2,Roberts Focus Measure,0.1546739855399212,22,False
+alpha,0.2,Image Power,0.16126070517008598,23,False
+alpha,0.2,Fourier High Frequency Energy Ratio,0.16243588954387295,24,False
+alpha,0.2,Intensity Skewness Index,0.18377843242413555,25,False
+alpha,0.2,Maximal Intensity,0.18879737820103282,26,False
+alpha,0.2,Mean Absolute Laplacian,0.1901831377826237,27,False
+alpha,0.2,Variance of Laplacian,0.19447915721413733,28,False
+alpha,0.2,Sum Modified Laplacian,0.19531793583138532,29,False
+alpha,0.2,Laplacian Energy,0.19814980970530632,30,False
+alpha,0.2,Histogram Entropy,0.1995821728565714,31,False
+alpha,0.2,GLCM Contrast,0.25204800891241025,32,False
+alpha,0.3,Variance of Gradient,0.05570205116538497,1,True
+alpha,0.3,Tenengrad,0.05813970927761032,2,True
+alpha,0.3,Squared Gradient,0.05825966460270307,3,True
+alpha,0.3,Energy of Gradient,0.05828577699324572,4,True
+alpha,0.3,Gradient Squared Energy,0.058307549627644506,5,True
+alpha,0.3,Brenner Gradient,0.06165191534879992,6,False
+alpha,0.3,Modified Tenengrad,0.06765468908303926,7,False
+alpha,0.3,Fourier Transform Sharpness Index,0.07680147537034362,8,False
+alpha,0.3,Intensity Range Index,0.13340542816808887,9,False
+alpha,0.3,Normalized Variance,0.1371119628632093,10,False
+alpha,0.3,Absolute Central Moment 4,0.13881285651620737,11,False
+alpha,0.3,Intensity Variance,0.1408640109989896,12,False
+alpha,0.3,Absolute Central Moment 2,0.14097036688971315,13,False
+alpha,0.3,DCT Focus Measure,0.1427877285194537,14,False
+alpha,0.3,Spatial Frequency,0.15946009093236402,15,False
+alpha,0.3,Wavelet W1,0.16127985675976586,16,False
+alpha,0.3,Wavelet Detail Energy (db1),0.1613386842440232,17,False
+alpha,0.3,Curvelet Transform Sharpness Index,0.16135401684787304,18,False
+alpha,0.3,Wavelet W3,0.16154808834936873,19,False
+alpha,0.3,Wavelet W2,0.16171498082065783,20,False
+alpha,0.3,Roberts Focus Measure,0.16351676443414326,21,False
+alpha,0.3,Fourier High Frequency Energy Ratio,0.17677612331732806,22,False
+alpha,0.3,Mean Intensity,0.18191023010512025,23,False
+alpha,0.3,Image Power,0.190469604378786,24,False
+alpha,0.3,Mean Absolute Laplacian,0.2143728361881491,25,False
+alpha,0.3,Variance of Laplacian,0.2156136759488863,26,False
+alpha,0.3,Intensity Skewness Index,0.21625125199981832,27,False
+alpha,0.3,Sum Modified Laplacian,0.21684016116836585,28,False
+alpha,0.3,Histogram Entropy,0.21954314176262063,29,False
+alpha,0.3,Laplacian Energy,0.2198984799015269,30,False
+alpha,0.3,Maximal Intensity,0.22038702938472568,31,False
+alpha,0.3,GLCM Contrast,0.276160463139832,32,False
+alpha,0.4,Variance of Gradient,0.06823769794087185,1,True
+alpha,0.4,Tenengrad,0.07118085824579172,2,True
+alpha,0.4,Squared Gradient,0.07130776204836961,3,True
+alpha,0.4,Energy of Gradient,0.0713274361402391,4,True
+alpha,0.4,Gradient Squared Energy,0.07135167443430045,5,True
+alpha,0.4,Brenner Gradient,0.07480930660190224,6,False
+alpha,0.4,Modified Tenengrad,0.08198693444468726,7,False
+alpha,0.4,Fourier Transform Sharpness Index,0.09159105019249107,8,False
+alpha,0.4,DCT Focus Measure,0.1563966648612669,9,False
+alpha,0.4,Normalized Variance,0.15787775407981758,10,False
+alpha,0.4,Absolute Central Moment 4,0.15895679100899823,11,False
+alpha,0.4,Intensity Range Index,0.1599684691515223,12,False
+alpha,0.4,Intensity Variance,0.16165925540173653,13,False
+alpha,0.4,Absolute Central Moment 2,0.16182217164929136,14,False
+alpha,0.4,Spatial Frequency,0.17060369057436772,15,False
+alpha,0.4,Roberts Focus Measure,0.17235954332836528,16,False
+alpha,0.4,Wavelet W1,0.1751682834500179,17,False
+alpha,0.4,Wavelet Detail Energy (db1),0.1752579616764806,18,False
+alpha,0.4,Curvelet Transform Sharpness Index,0.17526349564414334,19,False
+alpha,0.4,Wavelet W3,0.17546482005081937,20,False
+alpha,0.4,Wavelet W2,0.1757048614920294,21,False
+alpha,0.4,Fourier High Frequency Energy Ratio,0.19111635709078317,22,False
+alpha,0.4,Mean Intensity,0.21793053005353294,23,False
+alpha,0.4,Image Power,0.21967850358748597,24,False
+alpha,0.4,Variance of Laplacian,0.23674819468363525,25,False
+alpha,0.4,Sum Modified Laplacian,0.2383623865053464,26,False
+alpha,0.4,Mean Absolute Laplacian,0.23856253459367452,27,False
+alpha,0.4,Histogram Entropy,0.23950411066866983,28,False
+alpha,0.4,Laplacian Energy,0.24164715009774745,29,False
+alpha,0.4,Intensity Skewness Index,0.24872407157550108,30,False
+alpha,0.4,Maximal Intensity,0.2519766805684186,31,False
+alpha,0.4,GLCM Contrast,0.30027291736725364,32,False
+alpha,0.5,Variance of Gradient,0.08077334471635872,1,True
+alpha,0.5,Tenengrad,0.08422200721397312,2,True
+alpha,0.5,Squared Gradient,0.08435585949403614,3,True
+alpha,0.5,Energy of Gradient,0.08436909528723252,4,True
+alpha,0.5,Gradient Squared Energy,0.08439579924095639,5,True
+alpha,0.5,Brenner Gradient,0.08796669785500458,6,False
+alpha,0.5,Modified Tenengrad,0.09631917980633527,7,False
+alpha,0.5,Fourier Transform Sharpness Index,0.10638062501463852,8,False
+alpha,0.5,DCT Focus Measure,0.17000560120308014,9,False
+alpha,0.5,Normalized Variance,0.17864354529642587,10,False
+alpha,0.5,Absolute Central Moment 4,0.17910072550178907,11,False
+alpha,0.5,Roberts Focus Measure,0.18120232222258734,12,False
+alpha,0.5,Spatial Frequency,0.1817472902163714,13,False
+alpha,0.5,Intensity Variance,0.18245449980448347,14,False
+alpha,0.5,Absolute Central Moment 2,0.18267397640886957,15,False
+alpha,0.5,Intensity Range Index,0.18653151013495572,16,False
+alpha,0.5,Wavelet W1,0.18905671014026992,17,False
+alpha,0.5,Curvelet Transform Sharpness Index,0.18917297444041367,18,False
+alpha,0.5,Wavelet Detail Energy (db1),0.18917723910893805,19,False
+alpha,0.5,Wavelet W3,0.18938155175226998,20,False
+alpha,0.5,Wavelet W2,0.189694742163401,21,False
+alpha,0.5,Fourier High Frequency Energy Ratio,0.2054565908642383,22,False
+alpha,0.5,Image Power,0.24888740279618599,23,False
+alpha,0.5,Mean Intensity,0.2539508300019456,24,False
+alpha,0.5,Variance of Laplacian,0.2578827134183842,25,False
+alpha,0.5,Histogram Entropy,0.25946507957471904,26,False
+alpha,0.5,Sum Modified Laplacian,0.259884611842327,27,False
+alpha,0.5,Mean Absolute Laplacian,0.2627522329991999,28,False
+alpha,0.5,Laplacian Energy,0.263395820293968,29,False
+alpha,0.5,Intensity Skewness Index,0.28119689115118385,30,False
+alpha,0.5,Maximal Intensity,0.28356633175211143,31,False
+alpha,0.5,GLCM Contrast,0.32438537159467534,32,False
+alpha,0.6,Variance of Gradient,0.09330899149184559,1,True
+alpha,0.6,Tenengrad,0.09726315618215452,2,True
+alpha,0.6,Squared Gradient,0.09740395693970269,3,True
+alpha,0.6,Energy of Gradient,0.09741075443422592,4,True
+alpha,0.6,Gradient Squared Energy,0.09743992404761236,5,True
+alpha,0.6,Brenner Gradient,0.10112408910810694,6,False
+alpha,0.6,Modified Tenengrad,0.11065142516798328,7,False
+alpha,0.6,Fourier Transform Sharpness Index,0.121170199836786,8,False
+alpha,0.6,DCT Focus Measure,0.18361453754489337,9,False
+alpha,0.6,Roberts Focus Measure,0.1900451011168094,10,False
+alpha,0.6,Spatial Frequency,0.1928908898583751,11,False
+alpha,0.6,Absolute Central Moment 4,0.19924465999457996,12,False
+alpha,0.6,Normalized Variance,0.19940933651303416,13,False
+alpha,0.6,Wavelet W1,0.20294513683052198,14,False
+alpha,0.6,Curvelet Transform Sharpness Index,0.203082453236684,15,False
+alpha,0.6,Wavelet Detail Energy (db1),0.2030965165413955,16,False
+alpha,0.6,Intensity Variance,0.20324974420723046,17,False
+alpha,0.6,Wavelet W3,0.2032982834537206,18,False
+alpha,0.6,Absolute Central Moment 2,0.20352578116844783,19,False
+alpha,0.6,Wavelet W2,0.20368462283477257,20,False
+alpha,0.6,Intensity Range Index,0.21309455111838918,21,False
+alpha,0.6,Fourier High Frequency Energy Ratio,0.2197968246376934,22,False
+alpha,0.6,Image Power,0.278096302004886,23,False
+alpha,0.6,Variance of Laplacian,0.27901723215313323,24,False
+alpha,0.6,Histogram Entropy,0.2794260484807683,25,False
+alpha,0.6,Sum Modified Laplacian,0.28140683717930753,26,False
+alpha,0.6,Laplacian Energy,0.28514449049018864,27,False
+alpha,0.6,Mean Absolute Laplacian,0.28694193140472535,28,False
+alpha,0.6,Mean Intensity,0.28997112995035834,29,False
+alpha,0.6,Intensity Skewness Index,0.31366971072686667,30,False
+alpha,0.6,Maximal Intensity,0.3151559829358043,31,False
+alpha,0.6,GLCM Contrast,0.3484978258220971,32,False
+alpha,0.7,Variance of Gradient,0.10584463826733245,1,True
+alpha,0.7,Tenengrad,0.11030430515033592,2,True
+alpha,0.7,Squared Gradient,0.11045205438536923,3,True
+alpha,0.7,Energy of Gradient,0.11045241358121934,4,True
+alpha,0.7,Gradient Squared Energy,0.1104840488542683,5,True
+alpha,0.7,Brenner Gradient,0.11428148036120926,6,False
+alpha,0.7,Modified Tenengrad,0.12498367052963129,7,False
+alpha,0.7,Fourier Transform Sharpness Index,0.13595977465893344,8,False
+alpha,0.7,DCT Focus Measure,0.19722347388670664,9,False
+alpha,0.7,Roberts Focus Measure,0.19888788001103144,10,False
+alpha,0.7,Spatial Frequency,0.20403448950037878,11,False
+alpha,0.7,Wavelet W1,0.21683356352077401,12,False
+alpha,0.7,Curvelet Transform Sharpness Index,0.21699193203295433,13,False
+alpha,0.7,Wavelet Detail Energy (db1),0.2170157939738529,14,False
+alpha,0.7,Wavelet W3,0.21721501515517122,15,False
+alpha,0.7,Wavelet W2,0.21767450350614417,16,False
+alpha,0.7,Absolute Central Moment 4,0.21938859448737083,17,False
+alpha,0.7,Normalized Variance,0.22017512772964246,18,False
+alpha,0.7,Intensity Variance,0.22404498860997743,19,False
+alpha,0.7,Absolute Central Moment 2,0.22437758592802604,20,False
+alpha,0.7,Fourier High Frequency Energy Ratio,0.2341370584111485,21,False
+alpha,0.7,Intensity Range Index,0.23965759210182264,22,False
+alpha,0.7,Histogram Entropy,0.2993870173868175,23,False
+alpha,0.7,Variance of Laplacian,0.3001517508878822,24,False
+alpha,0.7,Sum Modified Laplacian,0.3029290625162881,25,False
+alpha,0.7,Laplacian Energy,0.30689316068640926,26,False
+alpha,0.7,Image Power,0.307305201213586,27,False
+alpha,0.7,Mean Absolute Laplacian,0.3111316298102508,28,False
+alpha,0.7,Mean Intensity,0.32599142989877106,29,False
+alpha,0.7,Intensity Skewness Index,0.34614253030254943,30,False
+alpha,0.7,Maximal Intensity,0.3467456341194972,31,False
+alpha,0.7,GLCM Contrast,0.3726102800495188,32,False
+alpha,0.8,Variance of Gradient,0.11838028504281933,1,True
+alpha,0.8,Tenengrad,0.12334545411851731,2,True
+alpha,0.8,Energy of Gradient,0.12349407272821272,3,True
+alpha,0.8,Squared Gradient,0.12350015183103576,4,True
+alpha,0.8,Gradient Squared Energy,0.12352817366092424,5,True
+alpha,0.8,Brenner Gradient,0.12743887161431158,6,False
+alpha,0.8,Modified Tenengrad,0.13931591589127928,7,False
+alpha,0.8,Fourier Transform Sharpness Index,0.1507493494810809,8,False
+alpha,0.8,Roberts Focus Measure,0.20773065890525347,9,False
+alpha,0.8,DCT Focus Measure,0.21083241022851984,10,False
+alpha,0.8,Spatial Frequency,0.21517808914238248,11,False
+alpha,0.8,Wavelet W1,0.23072199021102607,12,False
+alpha,0.8,Curvelet Transform Sharpness Index,0.23090141082922463,13,False
+alpha,0.8,Wavelet Detail Energy (db1),0.2309350714063103,14,False
+alpha,0.8,Wavelet W3,0.23113174685662188,15,False
+alpha,0.8,Wavelet W2,0.23166438417751573,16,False
+alpha,0.8,Absolute Central Moment 4,0.2395325289801617,17,False
+alpha,0.8,Normalized Variance,0.24094091894625072,18,False
+alpha,0.8,Intensity Variance,0.24484023301272434,19,False
+alpha,0.8,Absolute Central Moment 2,0.24522939068760427,20,False
+alpha,0.8,Fourier High Frequency Energy Ratio,0.24847729218460363,21,False
+alpha,0.8,Intensity Range Index,0.26622063308525606,22,False
+alpha,0.8,Histogram Entropy,0.3193479862928667,23,False
+alpha,0.8,Variance of Laplacian,0.3212862696226311,24,False
+alpha,0.8,Sum Modified Laplacian,0.32445128785326866,25,False
+alpha,0.8,Laplacian Energy,0.32864183088262977,26,False
+alpha,0.8,Mean Absolute Laplacian,0.3353213282157762,27,False
+alpha,0.8,Image Power,0.336514100422286,28,False
+alpha,0.8,Mean Intensity,0.36201172984718377,29,False
+alpha,0.8,Maximal Intensity,0.3783352853031901,30,False
+alpha,0.8,Intensity Skewness Index,0.3786153498782322,31,False
+alpha,0.8,GLCM Contrast,0.3967227342769405,32,False
+alpha,0.9,Variance of Gradient,0.13091593181830619,1,True
+alpha,0.9,Tenengrad,0.1363866030866987,2,True
+alpha,0.9,Energy of Gradient,0.13653573187520612,3,True
+alpha,0.9,Squared Gradient,0.13654824927670228,4,True
+alpha,0.9,Gradient Squared Energy,0.13657229846758018,5,True
+alpha,0.9,Brenner Gradient,0.14059626286741392,6,False
+alpha,0.9,Modified Tenengrad,0.1536481612529273,7,False
+alpha,0.9,Fourier Transform Sharpness Index,0.16553892430322836,8,False
+alpha,0.9,Roberts Focus Measure,0.21657343779947552,9,False
+alpha,0.9,DCT Focus Measure,0.2244413465703331,10,False
+alpha,0.9,Spatial Frequency,0.22632168878438616,11,False
+alpha,0.9,Wavelet W1,0.2446104169012781,12,False
+alpha,0.9,Curvelet Transform Sharpness Index,0.24481088962549497,13,False
+alpha,0.9,Wavelet Detail Energy (db1),0.24485434883876772,14,False
+alpha,0.9,Wavelet W3,0.2450484785580725,15,False
+alpha,0.9,Wavelet W2,0.2456542648488873,16,False
+alpha,0.9,Absolute Central Moment 4,0.2596764634729526,17,False
+alpha,0.9,Normalized Variance,0.261706710162859,18,False
+alpha,0.9,Fourier High Frequency Energy Ratio,0.26281752595805874,19,False
+alpha,0.9,Intensity Variance,0.26563547741547133,20,False
+alpha,0.9,Absolute Central Moment 2,0.2660811954471825,21,False
+alpha,0.9,Intensity Range Index,0.2927836740686895,22,False
+alpha,0.9,Histogram Entropy,0.33930895519891596,23,False
+alpha,0.9,Variance of Laplacian,0.34242078835738016,24,False
+alpha,0.9,Sum Modified Laplacian,0.34597351319024916,25,False
+alpha,0.9,Laplacian Energy,0.3503905010788504,26,False
+alpha,0.9,Mean Absolute Laplacian,0.3595110266213016,27,False
+alpha,0.9,Image Power,0.36572299963098603,28,False
+alpha,0.9,Mean Intensity,0.39803202979559643,29,False
+alpha,0.9,Maximal Intensity,0.409924936486883,30,False
+alpha,0.9,Intensity Skewness Index,0.411088169453915,31,False
+alpha,0.9,GLCM Contrast,0.4208351885043622,32,False
+alpha,1.0,Variance of Gradient,0.14345157859379307,1,True
+alpha,1.0,Tenengrad,0.1494277520548801,2,True
+alpha,1.0,Energy of Gradient,0.14957739102219952,3,True
+alpha,1.0,Squared Gradient,0.14959634672236882,4,True
+alpha,1.0,Gradient Squared Energy,0.14961642327423613,5,True
+alpha,1.0,Brenner Gradient,0.15375365412051625,6,False
+alpha,1.0,Modified Tenengrad,0.16798040661457528,7,False
+alpha,1.0,Fourier Transform Sharpness Index,0.1803284991253758,8,False
+alpha,1.0,Roberts Focus Measure,0.22541621669369755,9,False
+alpha,1.0,Spatial Frequency,0.23746528842638984,10,False
+alpha,1.0,DCT Focus Measure,0.2380502829121463,11,False
+alpha,1.0,Wavelet W1,0.25849884359153014,12,False
+alpha,1.0,Curvelet Transform Sharpness Index,0.25872036842176527,13,False
+alpha,1.0,Wavelet Detail Energy (db1),0.25877362627122513,14,False
+alpha,1.0,Wavelet W3,0.2589652102595231,15,False
+alpha,1.0,Wavelet W2,0.2596441455202589,16,False
+alpha,1.0,Fourier High Frequency Energy Ratio,0.27715775973151385,17,False
+alpha,1.0,Absolute Central Moment 4,0.27982039796574343,18,False
+alpha,1.0,Normalized Variance,0.2824725013794673,19,False
+alpha,1.0,Intensity Variance,0.28643072181821827,20,False
+alpha,1.0,Absolute Central Moment 2,0.2869330002067607,21,False
+alpha,1.0,Intensity Range Index,0.3193467150521229,22,False
+alpha,1.0,Histogram Entropy,0.35926992410496517,23,False
+alpha,1.0,Variance of Laplacian,0.3635553070921291,24,False
+alpha,1.0,Sum Modified Laplacian,0.3674957385272297,25,False
+alpha,1.0,Laplacian Energy,0.37213917127507096,26,False
+alpha,1.0,Mean Absolute Laplacian,0.383700725026827,27,False
+alpha,1.0,Image Power,0.39493189883968605,28,False
+alpha,1.0,Mean Intensity,0.43405232974400915,29,False
+alpha,1.0,Maximal Intensity,0.44151458767057583,30,False
+alpha,1.0,Intensity Skewness Index,0.4435609890295978,31,False
+alpha,1.0,GLCM Contrast,0.4449476427317839,32,False

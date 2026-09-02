@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "operators": 32,
+  "domains": [
+    "WBC",
+    "TBI",
+    "PBS",
+    "BMA",
+    "TBF"
+  ],
+  "all_raw_finite": true,
+  "all_normalized_finite": true,
+  "candidate_pool_frozen": true,
+  "WBC_slide_cluster_bootstrap": true,
+  "WBC_slide_clusters": 214,
+  "patient_level_bootstrap_blocked": true
+}

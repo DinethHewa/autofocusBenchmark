@@ -1,0 +1,5 @@
+domain,source_type,title,url,access_date,verified_fields
+WBC,primary dataset paper,A large multi-focus dataset for white blood cell classification,https://doi.org/10.1038/s41597-024-03938-1,2026-08-26,"25773 stacks; 72 patients; 214 slides; 10 slices; 200 x 200; 50x; 400 nm"
+WBC,official dataset record,A large multi-focus dataset for white blood cell classification,https://springernature.figshare.com/articles/dataset/A_large_multi-focus_dataset_for_white_blood_cell_classification/26781052,2026-08-26,CC0 dataset licence
+PBS|BMA|TBF,official dataset record,High Magnification Z-Stacks from Blood Films,https://rdr.ucl.ac.uk/articles/dataset/High_Magnification_Z-Stacks_from_Blood_Films/13402301,2026-08-26,"0.5 um step; 100x/1.4 NA oil; stains/specimens; CC0"
+TBI,official dataset record,TBIMAGE_DB_FOCUS.V1,https://www.tbimages.ufam.edu.br/2016-11-10-14-29-33/tbimage-db-focus-v1,2026-08-26,"10 focal images; 2.5 um focal-length step"

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "all_finite": true,
+  "expected_jobs": 640,
+  "observed_job_groups": 640,
+  "dtype_matched": true,
+  "aspect_ratio_preserved": true,
+  "warmup_used": true,
+  "repeated": true,
+  "order_randomized": true
+}

@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-08-26T06:54:30+05:30",
+  "bins": 256,
+  "integer_range": "full representable dtype range",
+  "float_range": [
+    0.0,
+    1.0
+  ],
+  "per_image_normalization": false,
+  "seed": null,
+  "input_hashes": {
+    "WBC": "15e0c1db1a9673e857606c6b158d0ec025419c0f20ba568f9eb9204221f78d7b",
+    "TBI": "b9bd684577285a43aafac45c763c8545afa6e5d7162de7c8b8511f1a8a60bb6a",
+    "PBS": "6c4f6037381498ec15d55b42d336a29a48a05d77c4a120239ca0dfdb51502c0e",
+    "BMA": "1c219ab35efb0ce02ad2478c011fa74ab32c71b4495cc5e39c784f5904c0df1b",
+    "TBF": "1dcb6c85b2bb984b4d52ac8d583bcde3dafc5200e485d3a43352082b0c5d0359"
+  },
+  "software": {
+    "python": "3.12.13 (main, Apr 14 2026, 14:29:00) [Clang 22.1.3 ]",
+    "numpy": "2.5.2",
+    "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39"
+  }
+}

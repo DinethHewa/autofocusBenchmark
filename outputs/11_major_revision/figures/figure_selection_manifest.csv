@@ -1,0 +1,6 @@
+figure,domain,stack_index,selection_rule,display_normalization,source_folder,displayed_slices
+Figure 1,WBC,0,first stack in deterministic source order; all licensed domains,one global min/max over all slices in stack,/mnt/d/New_folder/datasets/WBC_dataset1/0,"[0, 7, 9]"
+Figure 1,PBS,0,first stack in deterministic source order; all licensed domains,one global min/max over all slices in stack,/mnt/d/New_folder/datasets/New folder/bma pbf tfa/pbs_imgs/FieldPos001_Cam01_RGB_MB,"[0, 4, 8]"
+Figure 1,BMA,0,first stack in deterministic source order; all licensed domains,one global min/max over all slices in stack,/mnt/d/New_folder/datasets/New folder/bma pbf tfa/bma_imgs/pos000_0,"[0, 7, 13]"
+Figure 1,TBF,0,first stack in deterministic source order; all licensed domains,one global min/max over all slices in stack,/mnt/d/New_folder/datasets/New folder/bma pbf tfa/tbf_imgs/FieldPos000,"[0, 4, 13]"
+Figure 2,WBC,16585,largest REF-B-versus-REF-C displacement; smallest stack index breaks ties,one global min/max over all slices in stack,/mnt/d/New_folder/datasets/WBC_dataset1/16585,"[1, 8, 0]"

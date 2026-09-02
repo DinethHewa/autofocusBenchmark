@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-08-26T12:36:43+05:30",
+  "seed": null,
+  "exclude_endpoints": true,
+  "tie_break": "upper central index among tied sorted indices",
+  "REF-A": "immutable submitted full and operator-specific LOO",
+  "REF-B_voters": [
+    "Tenengrad",
+    "Brenner Gradient",
+    "Variance of Laplacian",
+    "Sum Modified Laplacian",
+    "Normalized Variance",
+    "Energy of Gradient",
+    "Histogram Entropy",
+    "GLCM Contrast",
+    "Variance of Gradient",
+    "Fourier Transform Sharpness Index"
+  ],
+  "REF-C_voters": [
+    "Normalized Variance",
+    "Histogram Entropy",
+    "GLCM Contrast",
+    "Fourier Transform Sharpness Index"
+  ],
+  "candidate_pool": 32,
+  "input_hashes": {
+    "registry": "4a317b294208ce8f7f8d60a90d0a9a12787bfbf3bf7194f7813681ddc84cda7f",
+    "corrected_entropy_validation": "e21ae0ff7de4ea91d1df33078985bdebc3dcb8e56da04d195a23123f502ce7a7"
+  }
+}

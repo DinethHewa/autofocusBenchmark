@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-08-26T06:48:43+05:30",
+  "domains": {
+    "WBC": {
+      "stack_count": 25773,
+      "all_finite": true,
+      "constant_corrected_curves": 0,
+      "raw_sha256": "ddf36be6d1e24e81d2404f7d810f6b78e029bcb351f84ebdcb5d14730017d3fc",
+      "normalized_sha256": "d6d2df989001778cabfc687958c2a289b54f70d6b7165c1142a864e57c4da1e6"
+    },
+    "TBI": {
+      "stack_count": 30,
+      "all_finite": true,
+      "constant_corrected_curves": 0,
+      "raw_sha256": "f8faf40b9b0ac86fa09cd22ae24fd0f8f4cff5f7901f23459cd5aba2453faa6e",
+      "normalized_sha256": "2c3247aa5ad4204d057be901c1aebc3e2143cff0745cc0a70925d107610004ea"
+    },
+    "PBS": {
+      "stack_count": 77,
+      "all_finite": true,
+      "constant_corrected_curves": 0,
+      "raw_sha256": "ba38bdb20a342d5f6941cb438fa6d8c10efbf83c6859988dd76d7a63058b0082",
+      "normalized_sha256": "0ba3ea8e5bbb9eee67264443dab5f22d18256123da16678adaedd931bb08d6b0"
+    },
+    "BMA": {
+      "stack_count": 38,
+      "all_finite": true,
+      "constant_corrected_curves": 0,
+      "raw_sha256": "a5030458fada3b8bb7a7e678b799ce5c1a952f625359ef78e39efcad7c30cccf",
+      "normalized_sha256": "de429773f0bbde0ef54ea059d112415deb941ce9fa76bad7804fe65db9d41aa9"
+    },
+    "TBF": {
+      "stack_count": 182,
+      "all_finite": true,
+      "constant_corrected_curves": 0,
+      "raw_sha256": "10daa133b6e9d56b19474e41d28127ce043110e4d6727d74f16839a43a9b09f6",
+      "normalized_sha256": "98509b1063c949ca9549a97c2998c721869bcabad8162410648e996e0c635522"
+    }
+  },
+  "status": "PASS",
+  "failures": []
+}

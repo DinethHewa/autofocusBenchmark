@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-08-26T12:55:08.935632+05:30",
+  "formula_um": "absolute slice displacement multiplied by domain-specific verified axial step",
+  "normalized_formula": "absolute slice displacement divided by (stack slice count - 1)",
+  "no_cross_domain_step_substitution": true,
+  "REF-C_scope": "28 operators disjoint from the four-voter reference",
+  "input_hashes": {
+    "localization": "0d19004a27029bca67486a124cea12aef30d4a3863f1f2cc663d362f795ef19e",
+    "metadata": "35e25c9ff062426f6cb9ffd53d5dc523884a321038825733f1b6e07f0ae3e607",
+    "raw_criteria": "2c3e58a17064381660d52af3598c8a84a7d6bdfb8553f07d00a448a188f7f4d1"
+  }
+}

@@ -1,0 +1,93 @@
+reference_tier,operator,family,equal_domain_mean_absolute_displacement,rank,rank_shift_vs_REF-A
+REF-A_submitted_full,Brenner Gradient,gradient,0.048144220494109304,1,0
+REF-A_submitted_full,Fourier Transform Sharpness Index,frequency,0.07381709199891016,2,0
+REF-A_submitted_full,Energy of Gradient,gradient,0.09975355865914529,3,0
+REF-A_submitted_full,Gradient Squared Energy,gradient,0.09975355865914529,4,0
+REF-A_submitted_full,Squared Gradient,gradient,0.09975355865914529,5,0
+REF-A_submitted_full,Tenengrad,gradient,0.09975355865914529,6,0
+REF-A_submitted_full,Modified Tenengrad,gradient,0.10641028221727729,7,0
+REF-A_submitted_full,Variance of Gradient,gradient,0.14057428745076161,8,0
+REF-A_submitted_full,Roberts Focus Measure,gradient,0.7431482433598479,9,0
+REF-A_submitted_full,Absolute Central Moment 2,statistical,0.7678078908310055,10,0
+REF-A_submitted_full,Intensity Variance,statistical,0.7678078908310055,11,0
+REF-A_submitted_full,DCT Focus Measure,frequency,0.7786919570085551,12,0
+REF-A_submitted_full,Absolute Central Moment 4,statistical,0.8324886120910111,13,0
+REF-A_submitted_full,Normalized Variance,statistical,0.8412170680814122,14,0
+REF-A_submitted_full,Spatial Frequency,gradient,0.9469732316339231,15,0
+REF-A_submitted_full,Intensity Range Index,statistical,1.1232183554253772,16,0
+REF-A_submitted_full,Maximal Intensity,statistical,1.3322652063214098,17,0
+REF-A_submitted_full,Fourier High Frequency Energy Ratio,frequency,1.358844380455001,18,0
+REF-A_submitted_full,Curvelet Transform Sharpness Index,wavelet_alias,1.4115668669897392,19,0
+REF-A_submitted_full,Wavelet Detail Energy (db1),wavelet,1.4115668669897392,20,0
+REF-A_submitted_full,Wavelet W1,wavelet,1.4115668669897392,21,0
+REF-A_submitted_full,Wavelet W2,wavelet,1.4115668669897392,22,0
+REF-A_submitted_full,Wavelet W3,wavelet,1.4115668669897392,23,0
+REF-A_submitted_full,Image Power,statistical,1.9079894694787882,24,0
+REF-A_submitted_full,GLCM Contrast,texture,1.9507989178196066,25,0
+REF-A_submitted_full,Sum Modified Laplacian,laplacian,2.079586209778271,26,0
+REF-A_submitted_full,Laplacian Energy,laplacian,2.330144256085357,27,0
+REF-A_submitted_full,Variance of Laplacian,laplacian,2.330144256085357,28,0
+REF-A_submitted_full,Mean Absolute Laplacian,laplacian,2.5690017927351976,29,0
+REF-A_submitted_full,Histogram Entropy,entropy,2.7236762482749413,30,0
+REF-A_submitted_full,Mean Intensity,statistical,4.015389069003194,31,0
+REF-A_submitted_full,Intensity Skewness Index,statistical,5.184363219052888,32,0
+REF-B_fixed_ten_diagnostic,Brenner Gradient,gradient,0.048144220494109304,1,0
+REF-B_fixed_ten_diagnostic,Fourier Transform Sharpness Index,frequency,0.07381709199891016,2,0
+REF-B_fixed_ten_diagnostic,Energy of Gradient,gradient,0.09975355865914529,3,0
+REF-B_fixed_ten_diagnostic,Gradient Squared Energy,gradient,0.09975355865914529,4,0
+REF-B_fixed_ten_diagnostic,Squared Gradient,gradient,0.09975355865914529,5,0
+REF-B_fixed_ten_diagnostic,Tenengrad,gradient,0.09975355865914529,6,0
+REF-B_fixed_ten_diagnostic,Modified Tenengrad,gradient,0.10641028221727729,7,0
+REF-B_fixed_ten_diagnostic,Variance of Gradient,gradient,0.14057428745076161,8,0
+REF-B_fixed_ten_diagnostic,Roberts Focus Measure,gradient,0.7431482433598479,9,0
+REF-B_fixed_ten_diagnostic,Absolute Central Moment 2,statistical,0.7678078908310055,10,0
+REF-B_fixed_ten_diagnostic,Intensity Variance,statistical,0.7678078908310055,11,0
+REF-B_fixed_ten_diagnostic,DCT Focus Measure,frequency,0.7786919570085551,12,0
+REF-B_fixed_ten_diagnostic,Absolute Central Moment 4,statistical,0.8324886120910111,13,0
+REF-B_fixed_ten_diagnostic,Normalized Variance,statistical,0.8412170680814122,14,0
+REF-B_fixed_ten_diagnostic,Spatial Frequency,gradient,0.9469732316339231,15,0
+REF-B_fixed_ten_diagnostic,Intensity Range Index,statistical,1.1232183554253772,16,0
+REF-B_fixed_ten_diagnostic,Maximal Intensity,statistical,1.3322652063214098,17,0
+REF-B_fixed_ten_diagnostic,Fourier High Frequency Energy Ratio,frequency,1.358844380455001,18,0
+REF-B_fixed_ten_diagnostic,Curvelet Transform Sharpness Index,wavelet_alias,1.4115668669897392,19,0
+REF-B_fixed_ten_diagnostic,Wavelet Detail Energy (db1),wavelet,1.4115668669897392,20,0
+REF-B_fixed_ten_diagnostic,Wavelet W1,wavelet,1.4115668669897392,21,0
+REF-B_fixed_ten_diagnostic,Wavelet W2,wavelet,1.4115668669897392,22,0
+REF-B_fixed_ten_diagnostic,Wavelet W3,wavelet,1.4115668669897392,23,0
+REF-B_fixed_ten_diagnostic,Image Power,statistical,1.9079894694787882,24,0
+REF-B_fixed_ten_diagnostic,GLCM Contrast,texture,1.9507989178196066,25,0
+REF-B_fixed_ten_diagnostic,Sum Modified Laplacian,laplacian,2.079586209778271,26,0
+REF-B_fixed_ten_diagnostic,Laplacian Energy,laplacian,2.330144256085357,27,0
+REF-B_fixed_ten_diagnostic,Variance of Laplacian,laplacian,2.330144256085357,28,0
+REF-B_fixed_ten_diagnostic,Mean Absolute Laplacian,laplacian,2.5690017927351976,29,0
+REF-B_fixed_ten_diagnostic,Histogram Entropy,entropy,2.7236762482749413,30,0
+REF-B_fixed_ten_diagnostic,Mean Intensity,statistical,4.015389069003194,31,0
+REF-B_fixed_ten_diagnostic,Intensity Skewness Index,statistical,5.184363219052888,32,0
+REF-C_fixed_disjoint_four,Brenner Gradient,gradient,0.40875839123699487,1,0
+REF-C_fixed_disjoint_four,Energy of Gradient,gradient,0.4651729114159197,2,-1
+REF-C_fixed_disjoint_four,Gradient Squared Energy,gradient,0.4651729114159197,3,-1
+REF-C_fixed_disjoint_four,Squared Gradient,gradient,0.4651729114159197,4,-1
+REF-C_fixed_disjoint_four,Tenengrad,gradient,0.4651729114159197,5,-1
+REF-C_fixed_disjoint_four,Modified Tenengrad,gradient,0.47265220122555524,6,-1
+REF-C_fixed_disjoint_four,Variance of Gradient,gradient,0.5054504360791846,7,-1
+REF-C_fixed_disjoint_four,Absolute Central Moment 2,statistical,0.5107189613854485,8,-2
+REF-C_fixed_disjoint_four,Intensity Variance,statistical,0.5107189613854485,9,-2
+REF-C_fixed_disjoint_four,Absolute Central Moment 4,statistical,0.6203961804083106,10,-3
+REF-C_fixed_disjoint_four,DCT Focus Measure,frequency,0.9616840822542014,11,-1
+REF-C_fixed_disjoint_four,Roberts Focus Measure,gradient,1.0424340710842497,12,3
+REF-C_fixed_disjoint_four,Spatial Frequency,gradient,1.209802302286971,13,-2
+REF-C_fixed_disjoint_four,Intensity Range Index,statistical,1.366017605280359,14,-2
+REF-C_fixed_disjoint_four,Maximal Intensity,statistical,1.4949540416229545,15,-2
+REF-C_fixed_disjoint_four,Fourier High Frequency Energy Ratio,frequency,1.5928934299970083,16,-2
+REF-C_fixed_disjoint_four,Curvelet Transform Sharpness Index,wavelet_alias,1.6177127910613993,17,-2
+REF-C_fixed_disjoint_four,Wavelet Detail Energy (db1),wavelet,1.6177127910613993,18,-2
+REF-C_fixed_disjoint_four,Wavelet W1,wavelet,1.6177127910613993,19,-2
+REF-C_fixed_disjoint_four,Wavelet W2,wavelet,1.6177127910613993,20,-2
+REF-C_fixed_disjoint_four,Wavelet W3,wavelet,1.6177127910613993,21,-2
+REF-C_fixed_disjoint_four,Image Power,statistical,1.9118476348100983,22,-2
+REF-C_fixed_disjoint_four,Sum Modified Laplacian,laplacian,2.1543158851616293,23,-3
+REF-C_fixed_disjoint_four,Laplacian Energy,laplacian,2.3840947106894945,24,-3
+REF-C_fixed_disjoint_four,Variance of Laplacian,laplacian,2.3840947106894945,25,-3
+REF-C_fixed_disjoint_four,Mean Absolute Laplacian,laplacian,2.6541055583902136,26,-3
+REF-C_fixed_disjoint_four,Mean Intensity,statistical,4.296343420265518,27,-4
+REF-C_fixed_disjoint_four,Intensity Skewness Index,statistical,4.96508924550302,28,-4

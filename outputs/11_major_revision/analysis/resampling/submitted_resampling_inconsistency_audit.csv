@@ -1,0 +1,13 @@
+artifact,operator,native_value_rank,submitted_1024_value_rank,submitted_value_rank_shift,resolution,resolution_status
+submitted rank_stability_1024.csv,Tenengrad,1,4,3,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,Variance of Gradient,2,7,5,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,Squared Gradient,3,3,0,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,Energy of Gradient,4,5,1,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,Gradient Squared Energy,5,6,1,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,Brenner Gradient,6,2,-4,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,Modified Tenengrad,7,9,2,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,Fourier Transform Sharpness Index,8,10,2,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,Roberts Focus Measure,9,1,-8,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,Spatial Frequency,10,8,-2,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted rank_stability_1024.csv,DCT Focus Measure,11,11,0,forced 1024x1024,confounded scale + aspect distortion + interpolation; superseded by controlled analysis
+submitted manuscript supplement list,not applicable,not applicable,not applicable,not applicable,not applicable,"numbering corrected: S2 is alpha sensitivity, S5 is composite deduplication, and the 1024 rank-stability table is S7 in the frozen export"
